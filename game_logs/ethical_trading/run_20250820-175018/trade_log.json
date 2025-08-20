@@ -1,0 +1,892 @@
+[
+  {
+    "round": 1,
+    "seller": "JusticeAgent",
+    "buyer": "DeonAgent",
+    "amount": 5.730002173194101,
+    "price": 30.0,
+    "total_value": 171.90006519582303,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "UtilAgent",
+    "buyer": "DeonAgent",
+    "amount": 11.18489993149401,
+    "price": 30.0,
+    "total_value": 335.5469979448203,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "JusticeAgent",
+    "buyer": "VirtueAgent",
+    "amount": 5.730002173194101,
+    "price": 30.0,
+    "total_value": 171.90006519582303,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "JusticeAgent",
+    "buyer": "VirtueAgent",
+    "amount": 5.730002173194101,
+    "price": 30.0,
+    "total_value": 171.90006519582303,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "CareAgent",
+    "buyer": "VirtueAgent",
+    "amount": 3.881632567164445,
+    "price": 30.0,
+    "total_value": 116.44897701493335,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "JusticeAgent",
+    "buyer": "DeonAgent",
+    "amount": 5.730002173194101,
+    "price": 30.0,
+    "total_value": 171.90006519582303,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "UtilAgent",
+    "buyer": "DeonAgent",
+    "amount": 11.18489993149401,
+    "price": 30.0,
+    "total_value": 335.5469979448203,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "UtilAgent",
+    "buyer": "VirtueAgent",
+    "amount": 11.18489993149401,
+    "price": 30.0,
+    "total_value": 335.5469979448203,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "UtilAgent",
+    "buyer": "DeonAgent",
+    "amount": 13.981124914367513,
+    "price": 0.0,
+    "total_value": 0.0,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "CareAgent",
+    "buyer": "DeonAgent",
+    "amount": 1.0188750856324873,
+    "price": 0.0,
+    "total_value": 0.0,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "CareAgent",
+    "buyer": "VirtueAgent",
+    "amount": 3.833165623323069,
+    "price": 0.0,
+    "total_value": 0.0,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "JusticeAgent",
+    "buyer": "VirtueAgent",
+    "amount": 7.162502716492625,
+    "price": 0.0,
+    "total_value": 0.0,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "seller": "DeonAgent",
+    "buyer": "UtilAgent",
+    "amount": 35.0,
+    "price": 21.5,
+    "total_value": 752.5,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "seller": "DeonAgent",
+    "buyer": "UtilAgent",
+    "amount": 2.3667883559649,
+    "price": 30.0,
+    "total_value": 71.003650678947,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "seller": "JusticeAgent",
+    "buyer": "VirtueAgent",
+    "amount": 1.7939556799278933,
+    "price": 30.0,
+    "total_value": 53.8186703978368,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "seller": "UtilAgent",
+    "buyer": "VirtueAgent",
+    "amount": 14.497588044927582,
+    "price": 22.5,
+    "total_value": 326.1957310108706,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "seller": "CareAgent",
+    "buyer": "UtilAgent",
+    "amount": 2.3667883559649,
+    "price": 30.0,
+    "total_value": 71.003650678947,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "seller": "JusticeAgent",
+    "buyer": "VirtueAgent",
+    "amount": 1.7939556799278933,
+    "price": 30.0,
+    "total_value": 53.8186703978368,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "seller": "DeonAgent",
+    "buyer": "UtilAgent",
+    "amount": 2.958485444956125,
+    "price": 20.968709869460156,
+    "total_value": 62.035622948305715,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "seller": "DeonAgent",
+    "buyer": "VirtueAgent",
+    "amount": 12.041514555043875,
+    "price": 20.968709869460156,
+    "total_value": 252.4950250935966,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "seller": "CareAgent",
+    "buyer": "VirtueAgent",
+    "amount": 2.456073489883707,
+    "price": 20.968709869460156,
+    "total_value": 51.50069242744393,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "VirtueAgent",
+    "buyer": "UtilAgent",
+    "amount": 20.0,
+    "price": 27.5,
+    "total_value": 550.0,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "VirtueAgent",
+    "buyer": "CareAgent",
+    "amount": 1.0,
+    "price": 30.0,
+    "total_value": 30.0,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "DeonAgent",
+    "buyer": "CareAgent",
+    "amount": 1.0,
+    "price": 30.0,
+    "total_value": 30.0,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "DeonAgent",
+    "buyer": "UtilAgent",
+    "amount": 8.16133047484584,
+    "price": 27.5,
+    "total_value": 224.4365880582606,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "VirtueAgent",
+    "buyer": "UtilAgent",
+    "amount": 20.0,
+    "price": 27.5,
+    "total_value": 550.0,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "DeonAgent",
+    "buyer": "CareAgent",
+    "amount": 1.0,
+    "price": 30.0,
+    "total_value": 30.0,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "DeonAgent",
+    "buyer": "CareAgent",
+    "amount": 1.0585773383404984,
+    "price": 25.84253795474815,
+    "total_value": 27.356325044100604,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "DeonAgent",
+    "buyer": "JusticeAgent",
+    "amount": 7.102753136505342,
+    "price": 25.84253795474815,
+    "total_value": 183.55316751334576,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "VirtueAgent",
+    "buyer": "JusticeAgent",
+    "amount": 7.897246863494658,
+    "price": 25.84253795474815,
+    "total_value": 204.08490180787646,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "UtilAgent",
+    "buyer": "DeonAgent",
+    "amount": 21.23429696322431,
+    "price": 28.77,
+    "total_value": 610.9107236319634,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "UtilAgent",
+    "buyer": "VirtueAgent",
+    "amount": 16.387142176031873,
+    "price": 28.7,
+    "total_value": 470.31098045211473,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "JusticeAgent",
+    "buyer": "VirtueAgent",
+    "amount": 12.054599273524502,
+    "price": 30.0,
+    "total_value": 361.63797820573507,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "DeonAgent",
+    "buyer": "UtilAgent",
+    "amount": 3.0433601703547737,
+    "price": 28.5,
+    "total_value": 86.73576485511106,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "UtilAgent",
+    "buyer": "VirtueAgent",
+    "amount": 16.387142176031873,
+    "price": 28.7,
+    "total_value": 470.31098045211473,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "DeonAgent",
+    "buyer": "CareAgent",
+    "amount": 3.6468409978209593,
+    "price": 28.5,
+    "total_value": 103.93496843789734,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "JusticeAgent",
+    "buyer": "VirtueAgent",
+    "amount": 12.054599273524502,
+    "price": 30.0,
+    "total_value": 361.63797820573507,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "JusticeAgent",
+    "buyer": "UtilAgent",
+    "amount": 3.0433601703547737,
+    "price": 26.799281954066842,
+    "total_value": 81.55986729311448,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "JusticeAgent",
+    "buyer": "DeonAgent",
+    "amount": 11.956639829645226,
+    "price": 26.799281954066842,
+    "total_value": 320.42936201788814,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "UtilAgent",
+    "buyer": "DeonAgent",
+    "amount": 5.8094019279868405,
+    "price": 30.3,
+    "total_value": 176.02487841800126,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "VirtueAgent",
+    "buyer": "UtilAgent",
+    "amount": 17.205716547436452,
+    "price": 29.75,
+    "total_value": 511.8700672862345,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "VirtueAgent",
+    "buyer": "UtilAgent",
+    "amount": 2.022542835111051,
+    "price": 30.0,
+    "total_value": 60.67628505333153,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "CareAgent",
+    "buyer": "DeonAgent",
+    "amount": 9.91,
+    "price": 28.7,
+    "total_value": 284.417,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "DeonAgent",
+    "buyer": "UtilAgent",
+    "amount": 2.5281785438888136,
+    "price": 29.5,
+    "total_value": 74.58126704472,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "UtilAgent",
+    "buyer": "DeonAgent",
+    "amount": 5.8094019279868405,
+    "price": 30.3,
+    "total_value": 176.02487841800126,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "VirtueAgent",
+    "buyer": "UtilAgent",
+    "amount": 17.205716547436452,
+    "price": 29.75,
+    "total_value": 511.8700672862345,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "CareAgent",
+    "buyer": "DeonAgent",
+    "amount": 9.91,
+    "price": 28.7,
+    "total_value": 284.417,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "CareAgent",
+    "buyer": "UtilAgent",
+    "amount": 2.022542835111051,
+    "price": 30.0,
+    "total_value": 60.67628505333153,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "VirtueAgent",
+    "buyer": "UtilAgent",
+    "amount": 2.5281785438888136,
+    "price": 27.57228734480191,
+    "total_value": 69.70766527106525,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "VirtueAgent",
+    "buyer": "DeonAgent",
+    "amount": 5.8094019279868405,
+    "price": 27.57228734480191,
+    "total_value": 160.17849925989938,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "VirtueAgent",
+    "buyer": "JusticeAgent",
+    "amount": 6.662419528124346,
+    "price": 27.57228734480191,
+    "total_value": 183.69814564106403,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "CareAgent",
+    "buyer": "JusticeAgent",
+    "amount": 8.337580471875654,
+    "price": 27.57228734480191,
+    "total_value": 229.88616453096463,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "CareAgent",
+    "buyer": "UtilAgent",
+    "amount": 1.0,
+    "price": 30.0,
+    "total_value": 30.0,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "CareAgent",
+    "buyer": "DeonAgent",
+    "amount": 1.6,
+    "price": 30.2,
+    "total_value": 48.32,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "CareAgent",
+    "buyer": "DeonAgent",
+    "amount": 1.5692789309228943,
+    "price": 30.0,
+    "total_value": 47.07836792768683,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "JusticeAgent",
+    "buyer": "DeonAgent",
+    "amount": 9.471862489263357,
+    "price": 30.0,
+    "total_value": 284.1558746779007,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "CareAgent",
+    "buyer": "VirtueAgent",
+    "amount": 1.5692789309228943,
+    "price": 30.0,
+    "total_value": 47.07836792768683,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "JusticeAgent",
+    "buyer": "VirtueAgent",
+    "amount": 10.918885848253474,
+    "price": 30.0,
+    "total_value": 327.56657544760424,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "UtilAgent",
+    "buyer": "VirtueAgent",
+    "amount": 17.70024630823883,
+    "price": 28.01603883508165,
+    "total_value": 495.8907879621297,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "CareAgent",
+    "buyer": "DeonAgent",
+    "amount": 1.6,
+    "price": 30.2,
+    "total_value": 48.32,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "CareAgent",
+    "buyer": "DeonAgent",
+    "amount": 1.5692789309228943,
+    "price": 30.0,
+    "total_value": 47.07836792768683,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "JusticeAgent",
+    "buyer": "DeonAgent",
+    "amount": 9.471862489263357,
+    "price": 30.0,
+    "total_value": 284.1558746779007,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "JusticeAgent",
+    "buyer": "VirtueAgent",
+    "amount": 10.918885848253474,
+    "price": 30.0,
+    "total_value": 327.56657544760424,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "CareAgent",
+    "buyer": "DeonAgent",
+    "amount": 1.9615986636536178,
+    "price": 28.01603883508165,
+    "total_value": 54.95622433976402,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "JusticeAgent",
+    "buyer": "DeonAgent",
+    "amount": 9.878229447925577,
+    "price": 28.01603883508165,
+    "total_value": 276.7488598349301,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "JusticeAgent",
+    "buyer": "VirtueAgent",
+    "amount": 3.770377862391264,
+    "price": 28.01603883508165,
+    "total_value": 105.63105261568579,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "DeonAgent",
+    "buyer": "UtilAgent",
+    "amount": 15.3,
+    "price": 30.5,
+    "total_value": 466.65000000000003,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "DeonAgent",
+    "buyer": "UtilAgent",
+    "amount": 1.3489512023552153,
+    "price": 30.0,
+    "total_value": 40.468536070656455,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "DeonAgent",
+    "buyer": "UtilAgent",
+    "amount": 1.686189002944019,
+    "price": 29.5,
+    "total_value": 49.74257558684856,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "DeonAgent",
+    "buyer": "CareAgent",
+    "amount": 6.159530348995787,
+    "price": 30.75,
+    "total_value": 189.40555823162046,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "VirtueAgent",
+    "buyer": "UtilAgent",
+    "amount": 1.686189002944019,
+    "price": 30.28,
+    "total_value": 51.0578030091449,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "JusticeAgent",
+    "buyer": "CareAgent",
+    "amount": 1.0,
+    "price": 30.0,
+    "total_value": 30.0,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "DeonAgent",
+    "buyer": "UtilAgent",
+    "amount": 1.686189002944019,
+    "price": 29.5,
+    "total_value": 49.74257558684856,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "VirtueAgent",
+    "buyer": "UtilAgent",
+    "amount": 1.686189002944019,
+    "price": 30.28,
+    "total_value": 51.0578030091449,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "JusticeAgent",
+    "buyer": "CareAgent",
+    "amount": 1.0,
+    "price": 30.0,
+    "total_value": 30.0,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "DeonAgent",
+    "buyer": "UtilAgent",
+    "amount": 1.3489512023552153,
+    "price": 30.0,
+    "total_value": 40.468536070656455,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "DeonAgent",
+    "buyer": "UtilAgent",
+    "amount": 1.686189002944019,
+    "price": 28.283583638028407,
+    "total_value": 47.691467694290886,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "DeonAgent",
+    "buyer": "VirtueAgent",
+    "amount": 12.616304021612052,
+    "price": 28.283583638028407,
+    "total_value": 356.83428999805864,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "DeonAgent",
+    "buyer": "CareAgent",
+    "amount": 0.6975069754439289,
+    "price": 28.283583638028407,
+    "total_value": 19.72799687807659,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "CareAgent",
+    "buyer": "UtilAgent",
+    "amount": 1.0,
+    "price": 30.0,
+    "total_value": 30.0,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "DeonAgent",
+    "buyer": "UtilAgent",
+    "amount": 1.0,
+    "price": 30.0,
+    "total_value": 30.0,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "DeonAgent",
+    "buyer": "VirtueAgent",
+    "amount": 10.053886982827477,
+    "price": 30.0,
+    "total_value": 301.6166094848243,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "CareAgent",
+    "buyer": "VirtueAgent",
+    "amount": 1.9082528399951002,
+    "price": 30.0,
+    "total_value": 57.247585199853006,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "CareAgent",
+    "buyer": "DeonAgent",
+    "amount": 2.3,
+    "price": 29.7,
+    "total_value": 68.30999999999999,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "DeonAgent",
+    "buyer": "VirtueAgent",
+    "amount": 10.053886982827477,
+    "price": 30.0,
+    "total_value": 301.6166094848243,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "CareAgent",
+    "buyer": "VirtueAgent",
+    "amount": 1.9082528399951002,
+    "price": 30.0,
+    "total_value": 57.247585199853006,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "DeonAgent",
+    "buyer": "UtilAgent",
+    "amount": 1.0,
+    "price": 30.0,
+    "total_value": 30.0,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "DeonAgent",
+    "buyer": "VirtueAgent",
+    "amount": 12.567358728534344,
+    "price": 28.446934041974465,
+    "total_value": 357.5028248324486,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "CareAgent",
+    "buyer": "VirtueAgent",
+    "amount": 2.3853160499938753,
+    "price": 28.446934041974465,
+    "total_value": 67.85492834343884,
+    "type": "auction",
+    "timestamp": 0
+  }
+]

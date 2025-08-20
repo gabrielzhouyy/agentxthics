@@ -1,0 +1,92 @@
+{
+  "market": {
+    "initial_price": 40.0,
+    "price_volatility": 0.15,
+    "num_rounds": 8,
+    "round_duration": 30,
+    "auction_enabled": true,
+    "bilateral_contracts": true
+  },
+  "agents": [
+    {
+      "id": "UtilAgent",
+      "generation_capacity": 100,
+      "storage_capacity": 50,
+      "demand_profile": "steady",
+      "ethical_framework": "utilitarian",
+      "utilitarian_weight": 0.9,
+      "deontological_weight": 0.3,
+      "virtue_ethics_weight": 0.4,
+      "care_ethics_weight": 0.3,
+      "justice_ethics_weight": 0.5
+    },
+    {
+      "id": "DeonAgent", 
+      "generation_capacity": 120,
+      "storage_capacity": 40,
+      "demand_profile": "variable",
+      "ethical_framework": "deontological",
+      "utilitarian_weight": 0.3,
+      "deontological_weight": 0.9,
+      "virtue_ethics_weight": 0.4,
+      "care_ethics_weight": 0.2,
+      "justice_ethics_weight": 0.7
+    },
+    {
+      "id": "VirtueAgent",
+      "generation_capacity": 90,
+      "storage_capacity": 60,
+      "demand_profile": "peak",
+      "ethical_framework": "virtue",
+      "utilitarian_weight": 0.4,
+      "deontological_weight": 0.4,
+      "virtue_ethics_weight": 0.9,
+      "care_ethics_weight": 0.6,
+      "justice_ethics_weight": 0.5
+    },
+    {
+      "id": "CareAgent",
+      "generation_capacity": 80,
+      "storage_capacity": 70,
+      "demand_profile": "steady",
+      "ethical_framework": "care",
+      "utilitarian_weight": 0.5,
+      "deontological_weight": 0.3,
+      "virtue_ethics_weight": 0.6,
+      "care_ethics_weight": 0.9,
+      "justice_ethics_weight": 0.4
+    },
+    {
+      "id": "JusticeAgent",
+      "generation_capacity": 110,
+      "storage_capacity": 45,
+      "demand_profile": "variable",
+      "ethical_framework": "justice",
+      "utilitarian_weight": 0.4,
+      "deontological_weight": 0.5,
+      "virtue_ethics_weight": 0.4,
+      "care_ethics_weight": 0.3,
+      "justice_ethics_weight": 0.9
+    }
+  ],
+  "communication": {
+    "enabled": true,
+    "max_messages_per_round": 3,
+    "max_contracts_per_turn": 2,
+    "message_delay": 0.5,
+    "force_contract_proposals": true,
+    "min_contracts_per_round": 8
+  },
+  "llm": {
+    "type": "openai",
+    "model": "gpt-4",
+    "timeout": 45
+  },
+  "output_dir": "game_logs/ethical_trading",
+  "analysis": {
+    "enabled": true,
+    "track_ethical_decisions": true,
+    "track_relationships": true,
+    "track_deception": true
+  }
+}

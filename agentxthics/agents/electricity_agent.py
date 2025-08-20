@@ -1,17 +1,29 @@
-"""Electricity trading agent implementation."""
+"""Electricity trading agent implementation with ethical framework integration."""
 import random
 import json
 import re
 from typing import Dict, List, Optional, Tuple, Any
-from agentxthics.agents.base_agent import BaseAgent
+from agentxthics.agents.enhanced_agent import EnhancedAgent
 from agentxthics.scenarios.electricity_market import ElectricityContract
 
-class ElectricityAgent(BaseAgent):
+class ElectricityAgent(EnhancedAgent):
     """Agent that participates in electricity trading."""
     
     def __init__(self, env, agent_id, market, config=None):
         """Initialize the electricity trading agent."""
-        super().__init__(env, agent_id, market, config)
+        # Initialize base agent without calling EnhancedAgent.__init__ directly
+        # to avoid shared_resource attribute issues
+        from .base_agent import BaseAgent
+        BaseAgent.__init__(self, env, agent_id, market, config)
+        
+        # Initialize enhanced agent attributes manually
+        self.config = config or {}
+        self.ethical_frameworks = self._initialize_frameworks()
+        self.is_vulnerable = self.config.get('is_vulnerable', False)
+        self.knowledge_level = self.config.get('knowledge_level', 1.0)
+        self.resource_need = self.config.get('resource_need', 20)  # Default for electricity trading
+        self.consumption_history = []
+        self.ethical_reasoning = []
         
         # Electricity-specific state
         self.generation = 0  # Current generation
@@ -50,6 +62,37 @@ class ElectricityAgent(BaseAgent):
         
         # Access shared resource as market
         self.market = self.shared_resource
+        
+        # Initialize trading-specific ethical tracking
+        self.ethical_trading_decisions = []
+        self.ethical_overrides = []  # When ethics override profit maximization
+    
+    def _initialize_frameworks(self) -> Dict[str, Any]:
+        """Initialize ethical frameworks based on configuration."""
+        # Import frameworks here to avoid circular imports
+        from ..frameworks.utilitarian import UtilitarianFramework
+        from ..frameworks.deontological import DeontologicalFramework
+        from ..frameworks.virtue import VirtueEthicsFramework
+        from ..frameworks.care import CareEthicsFramework
+        from ..frameworks.justice import JusticeFramework
+        
+        frameworks = {}
+        
+        # Get weights from config, defaulting if needed
+        utilitarian_weight = self.config.get('utilitarian_weight', 0.7)
+        deontological_weight = self.config.get('deontological_weight', 0.5)
+        virtue_weight = self.config.get('virtue_ethics_weight', 0.6)
+        care_weight = self.config.get('care_ethics_weight', 0.8)
+        justice_weight = self.config.get('justice_ethics_weight', 0.7)
+        
+        # Initialize frameworks with weights
+        frameworks['utilitarian'] = UtilitarianFramework(utilitarian_weight)
+        frameworks['deontological'] = DeontologicalFramework(deontological_weight)
+        frameworks['virtue'] = VirtueEthicsFramework(virtue_weight)
+        frameworks['care'] = CareEthicsFramework(care_weight)
+        frameworks['justice'] = JusticeFramework(justice_weight)
+        
+        return frameworks
     
     def run(self):
         """Override base agent run method to fit electricity market."""
@@ -934,3 +977,211 @@ Example: {{"action": "accept", "counter_price": 0, "counter_amount": 0, "explana
             self.market.log_shortage(self.id, shortage, impact)
         
         yield self.env.timeout(0)
+    
+    def _apply_ethical_reasoning_to_trading(self, action_type: str, proposed_decision: Dict, 
+                                          market_state: Dict) -> Tuple[Dict, str]:
+        """
+        Apply ethical frameworks to evaluate and potentially modify trading decisions.
+        
+        This method adapts the existing ethical reasoning from enhanced_agent to work 
+        with electricity trading scenarios, creating a cohesive storyline.
+        """
+        if not hasattr(self, 'ethical_frameworks') or not self.ethical_frameworks:
+            return proposed_decision, "No ethical frameworks available"
+        
+        # Translate trading decision to ethical framework context
+        framework_action = self._translate_trading_to_framework_action(
+            action_type, proposed_decision, market_state
+        )
+        
+        # Create mock trading context for ethical frameworks
+        mock_context = self._create_mock_trading_context(market_state)
+        
+        # Evaluate using existing ethical frameworks
+        framework_evaluations = {}
+        for name, framework in self.ethical_frameworks.items():
+            try:
+                score = framework.evaluate_action(self, framework_action, mock_context)
+                framework_evaluations[name] = {
+                    'score': score,
+                    'explanation': framework.get_explanation(score)
+                }
+            except Exception as e:
+                print(f"Error evaluating {name} framework: {e}")
+                framework_evaluations[name] = {
+                    'score': 0.5,
+                    'explanation': f"Error in evaluation: {str(e)[:50]}"
+                }
+        
+        # Calculate weighted ethical score
+        total_weight = sum(framework.weight for framework in self.ethical_frameworks.values())
+        weighted_score = sum(
+            eval_data['score'] * self.ethical_frameworks[name].weight
+            for name, eval_data in framework_evaluations.items()
+        ) / total_weight if total_weight > 0 else 0.5
+        
+        # Determine if decision should be modified based on ethical considerations
+        final_decision = proposed_decision.copy()
+        ethical_override = False
+        
+        # Apply ethical modifications based on weighted score and action type
+        if action_type == "contract_response" and weighted_score > 0.7:
+            # High ethical score suggests we should be more collaborative
+            if proposed_decision.get("action") == "reject":
+                # Consider accepting if it's ethically favorable
+                final_decision["action"] = "accept"
+                final_decision["explanation"] = "Accepting for ethical/collaborative reasons"
+                ethical_override = True
+        
+        elif action_type == "contract_proposal" and weighted_score < 0.3:
+            # Low ethical score suggests we should reconsider the proposal
+            if "price" in proposed_decision:
+                market_price = market_state.get("average_price", 40)
+                # Make price more fair
+                if proposed_decision["price"] > market_price * 1.2:
+                    final_decision["price"] = market_price * 1.1
+                    final_decision["message"] = "Revised to fair pricing"
+                    ethical_override = True
+        
+        elif action_type == "generation" and weighted_score > 0.6:
+            # Ethical considerations suggest generating more for market stability
+            if "amount" in proposed_decision:
+                capacity_buffer = self.generation_capacity * 0.1
+                if proposed_decision["amount"] < self.generation_capacity - capacity_buffer:
+                    final_decision["amount"] = min(
+                        self.generation_capacity,
+                        proposed_decision["amount"] * 1.15
+                    )
+                    ethical_override = True
+        
+        # Record the ethical evaluation
+        ethical_decision_record = {
+            'round': market_state.get('round', 0),
+            'action_type': action_type,
+            'original_decision': proposed_decision,
+            'final_decision': final_decision,
+            'ethical_evaluations': framework_evaluations,
+            'weighted_score': weighted_score,
+            'ethical_override': ethical_override
+        }
+        
+        self.ethical_trading_decisions.append(ethical_decision_record)
+        
+        if ethical_override:
+            self.ethical_overrides.append({
+                'round': market_state.get('round', 0),
+                'action_type': action_type,
+                'reason': f"Ethics override (score: {weighted_score:.2f})",
+                'change': f"Modified {action_type} decision based on ethical frameworks"
+            })
+        
+        # Create explanation combining top frameworks
+        top_framework = max(framework_evaluations.items(), key=lambda x: x[1]['score'])
+        explanation = f"Ethical reasoning ({top_framework[0]}): {top_framework[1]['explanation']}"
+        
+        if ethical_override:
+            explanation = f"ETHICAL OVERRIDE - {explanation}"
+        
+        return final_decision, explanation
+    
+    def _translate_trading_to_framework_action(self, action_type: str, decision: Dict, 
+                                             market_state: Dict) -> str:
+        """
+        Translate trading actions into the conserve/consume framework used by ethical frameworks.
+        
+        This creates the bridge between trading decisions and ethical evaluation.
+        """
+        if action_type == "contract_proposal":
+            offered_price = decision.get("price", market_state.get("average_price", 40))
+            market_price = market_state.get("average_price", 40)
+            
+            # Fair pricing is "conservative", aggressive pricing is "consumptive"
+            if offered_price <= market_price * 1.15:
+                return "conserve"  # Fair/collaborative pricing
+            else:
+                return "consume"  # Aggressive/selfish pricing
+        
+        elif action_type == "contract_response":
+            response = decision.get("action", "reject")
+            if response == "accept":
+                return "conserve"  # Collaboration/cooperation
+            else:
+                return "consume"  # Being selective/self-interested
+        
+        elif action_type == "generation":
+            generation_amount = decision.get("amount", 0)
+            my_demand = market_state.get("my_demand", 0)
+            
+            # Generating more than needed is "conservative" (helps market)
+            if generation_amount > my_demand * 1.1:
+                return "conserve"  # Contributing to market stability
+            else:
+                return "consume"  # Meeting only own needs
+        
+        elif action_type == "auction_participation":
+            # Price relative to market determines conserve vs consume
+            price = decision.get("price", market_state.get("average_price", 40))
+            market_price = market_state.get("average_price", 40)
+            
+            if abs(price - market_price) <= market_price * 0.1:  # Within 10% of market
+                return "conserve"  # Fair market participation
+            else:
+                return "consume"  # Aggressive pricing strategy
+        
+        # Default to conservative behavior
+        return "conserve"
+    
+    def _create_mock_trading_context(self, market_state: Dict):
+        """
+        Create a mock shared resource context for ethical framework evaluation.
+        
+        This adapts the trading environment to fit the existing ethical framework structure.
+        """
+        class MockTradingResource:
+            def __init__(self, market_state, market_agents):
+                # Map trading concepts to resource management concepts
+                self.amount = market_state.get("total_supply", 100)  # Total market supply
+                self.round_number = market_state.get("round", 0)
+                self.agents = market_agents
+                
+                # Ethical framework parameters (adapted from enhanced_agent)
+                self.conserve_amount = 10  # Conservative trading behavior
+                self.consume_amount = 20   # Aggressive trading behavior
+                self.bonus_renewal = 50    # Market benefits from cooperation
+                self.default_renewal = 30  # Standard market dynamics
+        
+        # Create simplified agent representations for ethical evaluation
+        mock_agents = []
+        for agent in self.market.agents:
+            if agent.id != self.id:
+                # Create mock agent with basic action inference
+                mock_agent = type('MockAgent', (), {
+                    'id': agent.id,
+                    'action': self._infer_agent_trading_stance(agent),
+                    'messages_this_round': "",
+                    'action_history': []
+                })()
+                mock_agents.append(mock_agent)
+        
+        return MockTradingResource(market_state, mock_agents)
+    
+    def _infer_agent_trading_stance(self, other_agent) -> str:
+        """
+        Infer whether another agent is being conservative or aggressive in trading.
+        
+        This helps ethical frameworks evaluate the broader market context.
+        """
+        # Simple heuristic based on agent behavior
+        if hasattr(other_agent, 'personality'):
+            if other_agent.personality == "cooperative":
+                return "conserve"
+            elif other_agent.personality == "competitive":
+                return "consume"
+        
+        # Default inference based on recent actions
+        if hasattr(other_agent, '_collaboration_history'):
+            collaborations = len(other_agent._collaboration_history)
+            if collaborations > 2:  # Has history of collaboration
+                return "conserve"
+        
+        return "consume"  # Default to assuming self-interested behavior

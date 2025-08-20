@@ -14,11 +14,14 @@ import re  # Import the re module for regex pattern matching
 from typing import Dict, List, Any, Optional
 from datetime import datetime
 
+# Load environment variables from .env file
+from dotenv import load_dotenv
+load_dotenv()
+
 from agentxthics.scenarios.electricity_market import ElectricityMarket
 from agentxthics.agents.electricity_agent import ElectricityAgent
 from agentxthics.llm.openai_llm import OpenAILLM
 from agentxthics.llm.gemini_llm import GeminiLLM
-from agentxthics.llm.mock_llm import MockLLM
 
 class ElectricityTradingGame:
     """
@@ -128,15 +131,16 @@ class ElectricityTradingGame:
         llm_config = self.config.get("llm", {})
         llm_type = llm_config.get("type", "openai")
         
-        if llm_type == "mock":
-            # Use the MockLLM if specified
-            self.llm = MockLLM()
-            print("Using Mock LLM")
-        elif llm_type == "openai":
+        if llm_type == "openai":
+            # Explicitly load the API key from environment variable
+            api_key = os.getenv("OPENAI_API_KEY") or llm_config.get("api_key")
+            
+            print(f"Initializing OpenAI LLM with API key: {'***' + api_key[-4:] if api_key else 'None'}")
+            
             # No try/except - if OpenAI fails, we want the simulation to fail
             self.llm = OpenAILLM(
                 model=llm_config.get("model", "gpt-4"),  # Default to GPT-4 for better reasoning
-                api_key=llm_config.get("api_key"),
+                api_key=api_key,
                 timeout=llm_config.get("timeout", 60)  # Increased timeout for more complex reasoning
             )
             print("Using OpenAI LLM")
@@ -152,17 +156,19 @@ class ElectricityTradingGame:
                 # Fallback to OpenAI if Gemini fails
                 print(f"Error initializing Gemini LLM: {e}")
                 print("Falling back to OpenAI LLM")
+                api_key = os.getenv("OPENAI_API_KEY") or llm_config.get("api_key")
                 self.llm = OpenAILLM(
                     model=llm_config.get("model", "gpt-4"),
-                    api_key=llm_config.get("api_key"),
+                    api_key=api_key,
                     timeout=llm_config.get("timeout", 60)
                 )
         else:
             # For any other type, use OpenAI
             print(f"Unknown LLM type '{llm_type}', using OpenAI LLM")
+            api_key = os.getenv("OPENAI_API_KEY") or llm_config.get("api_key")
             self.llm = OpenAILLM(
                 model=llm_config.get("model", "gpt-4"),
-                api_key=llm_config.get("api_key"),
+                api_key=api_key,
                 timeout=llm_config.get("timeout", 60)
             )
     

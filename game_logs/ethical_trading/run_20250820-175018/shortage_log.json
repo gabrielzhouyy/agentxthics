@@ -1,0 +1,156 @@
+[
+  {
+    "round": 1,
+    "agent": "DeonAgent",
+    "amount": 43.8300102371347,
+    "impact": "high",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "agent": "VirtueAgent",
+    "amount": 15.438586742694284,
+    "impact": "medium",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "agent": "UtilAgent",
+    "amount": 2.958485444956125,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "agent": "VirtueAgent",
+    "amount": 14.497588044927582,
+    "impact": "medium",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent",
+    "amount": 1.0585773383404984,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent",
+    "amount": 16.100097518084006,
+    "impact": "medium",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "agent": "UtilAgent",
+    "amount": 3.0433601703547737,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "agent": "DeonAgent",
+    "amount": 21.23429696322431,
+    "impact": "high",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "agent": "VirtueAgent",
+    "amount": 16.387142176031873,
+    "impact": "medium",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent",
+    "amount": 3.6468409978209593,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "agent": "UtilAgent",
+    "amount": 2.5281785438888136,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "agent": "DeonAgent",
+    "amount": 5.8094019279868405,
+    "impact": "medium",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent",
+    "amount": 21.825294537988214,
+    "impact": "high",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "agent": "UtilAgent",
+    "amount": 0.8612954087027447,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "agent": "DeonAgent",
+    "amount": 11.839828111579195,
+    "impact": "medium",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "agent": "VirtueAgent",
+    "amount": 17.70024630823883,
+    "impact": "medium",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "agent": "UtilAgent",
+    "amount": 1.686189002944019,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "agent": "VirtueAgent",
+    "amount": 12.616304021612052,
+    "impact": "medium",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent",
+    "amount": 6.159530348995787,
+    "impact": "medium",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "agent": "UtilAgent",
+    "amount": 0.3034143684206043,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "agent": "VirtueAgent",
+    "amount": 23.705541819432455,
+    "impact": "high",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent",
+    "amount": 9.508448254156079,
+    "impact": "medium",
+    "timestamp": 0
+  }
+]

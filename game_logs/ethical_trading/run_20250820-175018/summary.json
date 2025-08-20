@@ -1,0 +1,43 @@
+{
+  "num_rounds": 8,
+  "num_agents": 5,
+  "total_trades": 2348.894330810992,
+  "average_price": 26.809550081887565,
+  "total_shortages": 22,
+  "agent_profits": {
+    "UtilAgent": {
+      "profit": 5919.61887146778,
+      "generation": 100,
+      "storage": 50,
+      "personality": "adaptive"
+    },
+    "DeonAgent": {
+      "profit": 2486.303198901509,
+      "generation": 120,
+      "storage": 40,
+      "personality": "adaptive"
+    },
+    "VirtueAgent": {
+      "profit": 3512.0079706155548,
+      "generation": 90,
+      "storage": 60,
+      "personality": "adaptive"
+    },
+    "CareAgent": {
+      "profit": 1590.8194862324663,
+      "generation": 80,
+      "storage": 70,
+      "personality": "adaptive"
+    },
+    "JusticeAgent": {
+      "profit": 4621.8062594409075,
+      "generation": 110,
+      "storage": 45,
+      "personality": "adaptive"
+    }
+  },
+  "collaboration_count": 32,
+  "deception_count": 4,
+  "communication_count": 145,
+  "contract_count": 44
+}

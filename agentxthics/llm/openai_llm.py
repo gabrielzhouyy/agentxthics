@@ -330,7 +330,12 @@ The section headers must match EXACTLY as shown above. Do not combine or skip se
                                prompt: str, 
                                previous_action: Optional[str] = None, 
                                market_state: Optional[Dict[str, Any]] = None) -> str:
-        """Generate a basic electricity market decision for backward compatibility."""
+        """Generate a basic electricity market decision - REQUIRES REAL API CALLS."""
+        
+        # FORCE REAL API CALLS - NO FALLBACKS
+        if not self.client:
+            raise Exception(f"OpenAI client not initialized for agent {self.agent_id} - cannot proceed without real LLM")
+        
         # Extract key market information if available
         net_position = None
         average_price = 40  # Default price
@@ -351,129 +356,70 @@ The section headers must match EXACTLY as shown above. Do not combine or skip se
                 else:
                     market_status = "large deficit"
         
-        # Create a highly simplified prompt with EXACT JSON schema requirements
+        # Create a detailed prompt for real LLM reasoning
         full_prompt = f"""
-Create a decision with EXACTLY ONE of these JSON structures:
+You are Agent {self.agent_id}, an electricity trading company with a {self.personality} personality (cooperation bias: {self.cooperation_bias}).
 
-For SELL (when you have surplus electricity):
+Current Situation:
+- Market position: {market_status}
+- Net electricity position: {net_position} units
+- Current market price: ${average_price}
+- Previous action: {previous_action or "none"}
+
+You must make a strategic decision about your electricity operations. Consider:
+1. Your current surplus/deficit situation
+2. Market price trends and opportunities
+3. Your personality ({self.personality}) and cooperation tendency ({self.cooperation_bias})
+4. Long-term relationships with other trading partners
+5. Risk management and storage optimization
+
+Respond with ONLY this JSON format:
 {{
-  "action": "sell",
-  "explanation": "brief reason for selling"
+  "action": "sell|buy|conserve|consume",
+  "explanation": "detailed reasoning for your decision (2-3 sentences explaining your strategic thinking)"
 }}
 
-For BUY (when you need electricity):
-{{
-  "action": "buy",
-  "explanation": "brief reason for buying"
-}}
-
-For CONSERVE (use storage):
-{{
-  "action": "conserve",
-  "explanation": "brief reason for conserving"
-}}
-
-For CONSUME (use available energy):
-{{
-  "action": "consume",
-  "explanation": "brief reason for consuming"
-}}
-
-Guidelines:
-1. Choose only ONE of the above actions
-2. Keep explanation short (under 50 characters) with no special characters
-3. Your current market position is: {market_status}
-4. Current market price is: ${average_price}
+Your explanation should reflect sophisticated market analysis and strategic thinking appropriate for a {self.personality} electricity trading company.
 """
 
-        # Use OpenAI if available, otherwise calculate probabilistically
-        if self.client:
-            try:
-                # Force JSON response format
-                completion = self.client.chat.completions.create(
-                    model=self.model_name,
-                    messages=[
-                        {"role": "system", "content": "You are a JSON generator. You only respond with valid JSON."},
-                        {"role": "user", "content": full_prompt}
-                    ],
-                    # Removed response_format parameter
-                    temperature=0.2,  # Lower temperature for more consistent responses
-                    max_tokens=100,   # Shorter responses
-                    timeout=10
-                )
-                
-                result = json.loads(completion.choices[0].message.content.strip())
-                action = result.get("action", "").lower()
-                explanation = result.get("explanation", "")
-                
-                # Validate action
-                if action not in ["sell", "buy", "conserve", "consume"]:
-                    print(f"Invalid action from OpenAI ({self.agent_id}): {action}. Defaulting to conserve.")
-                    action = "conserve"
-                    explanation = "Default action due to invalid response"
-                
-                # Sanitize explanation to prevent JSON issues
-                explanation = explanation.replace('\\', '\\\\').replace('"', '\\"')
-                
-                return json.dumps({"action": action, "explanation": explanation})
-            except Exception as e:
-                print(f"OpenAI decision generation error ({self.agent_id}): {e}")
-                # Fall back to probabilistic decision
-        
-        # Calculate a probability-based decision as fallback
-        # Base probability adjusted for personality
-        conserve_probability = self.cooperation_bias
-        
-        # Adjust for market conditions
-        if net_position is not None:
-            if net_position < 0:
-                # More likely to buy/consume when in deficit
-                conserve_probability -= 0.2
-            elif net_position > 10:
-                # More likely to sell/conserve when in large surplus
-                conserve_probability += 0.1
-        
-        # Adjust for previous action (consistency)
-        if previous_action in ["conserve", "sell"]:
-            conserve_probability += 0.1
-        elif previous_action in ["consume", "buy"]:
-            conserve_probability -= 0.1
-        
-        # Ensure probability is within bounds
-        conserve_probability = max(0.1, min(0.9, conserve_probability))
-        
-        # Make decision
-        if net_position is not None and net_position < 0:
-            # Deficit: decide between buy or consume
-            action = "buy" if random.random() < conserve_probability else "consume"
-        else:
-            # Surplus or unknown: decide between sell or conserve
-            action = "sell" if random.random() > conserve_probability else "conserve"
-        
-        # Generate explanation based on personality and decision
-        if action in ["conserve", "sell"]:
-            if self.personality == "cooperative":
-                explanation = "I want to maintain market stability by managing my resources efficiently."
-            elif self.personality == "competitive":
-                explanation = "Selling now optimizes my profit based on current market prices."
-            else:
-                explanation = "Balancing my resources while taking advantage of favorable market conditions."
-        else:  # buy or consume
-            if self.personality == "cooperative":
-                explanation = "I need to meet my electricity demand while considering market impacts."
-            elif self.personality == "competitive":
-                explanation = "I'm securing electricity at the most advantageous terms for my operations."
-            else:
-                explanation = "Acquiring electricity to meet my needs while staying responsive to market trends."
-        
-        # Return as JSON string
-        return json.dumps({
-            "action": action,
-            "explanation": explanation
-        })
+        try:
+            # FORCE REAL API CALL
+            completion = self.client.chat.completions.create(
+                model=self.model_name,
+                messages=[
+                    {"role": "system", "content": f"You are a sophisticated electricity trading company with {self.personality} personality. Provide strategic market decisions with detailed reasoning."},
+                    {"role": "user", "content": full_prompt}
+                ],
+                temperature=0.7,  # Higher temperature for more varied responses
+                max_tokens=200,   # Allow longer explanations
+                timeout=30
+            )
+            
+            response_text = completion.choices[0].message.content.strip()
+            print(f"REAL OpenAI response for {self.agent_id}: {response_text[:100]}...")
+            
+            # Parse the JSON response
+            result = json.loads(response_text)
+            action = result.get("action", "").lower()
+            explanation = result.get("explanation", "")
+            
+            # Validate action
+            if action not in ["sell", "buy", "conserve", "consume"]:
+                raise Exception(f"Invalid action from OpenAI: {action}")
+            
+            return json.dumps({"action": action, "explanation": explanation})
+            
+        except Exception as e:
+            print(f"CRITICAL ERROR: Real OpenAI API call failed for agent {self.agent_id}: {e}")
+            raise Exception(f"Real LLM required but failed: {e}")
     
     def _generate_contract_proposal(self, prompt: str, market_state: Optional[Dict[str, Any]] = None) -> str:
-        """Generate a contract proposal using OpenAI API."""
+        """Generate a contract proposal using OpenAI API - REQUIRES REAL API CALLS."""
+        
+        # FORCE REAL API CALLS - NO FALLBACKS
+        if not self.client:
+            raise Exception(f"OpenAI client not initialized for agent {self.agent_id} - cannot proceed without real LLM")
+        
         # Extract key values from market state for defaults
         avg_price = 40
         net_position = 0
@@ -486,108 +432,61 @@ Guidelines:
         recipient_match = re.search(r"to Agent ([A-Z])", prompt)
         recipient = recipient_match.group(1) if recipient_match else "unknown"
         
-        # Create a detailed prompt that includes agent personality and market position
+        # Create a detailed prompt for real LLM reasoning
         full_prompt = f"""
-You are Agent {self.agent_id}, an electricity trading company with a {self.personality} personality.
+You are Agent {self.agent_id}, an electricity trading company with a {self.personality} personality (cooperation bias: {self.cooperation_bias}).
 You need to propose an electricity trading contract to Agent {recipient}.
 
-Your current situation:
-- Your net electricity position: {net_position} units (positive means surplus, negative means deficit)
+Current Market Analysis:
+- Your net electricity position: {net_position} units (positive = surplus, negative = deficit)
 - Current market price: ${avg_price} per unit
-- Your personality is {self.personality} (cooperation tendency: {self.cooperation_bias})
+- Your personality: {self.personality} with cooperation tendency of {self.cooperation_bias}
 
-Create a strategic contract proposal with the following EXACT JSON structure:
+Strategic Considerations:
+1. If you have surplus electricity, you should propose to SELL
+2. If you have deficit, you should propose to BUY
+3. Price should reflect your personality and market conditions
+4. Amount should be realistic based on your position
+
+Create a strategic contract proposal with sophisticated reasoning:
+
 {{
-  "amount": [number between 5-50 that makes sense for your position],
-  "price": [competitive price around ${avg_price}],
-  "message": [short explanation of your offer]
+  "amount": [realistic number based on your position, 10-40 units],
+  "price": [strategic price considering market and personality],
+  "message": [professional message explaining your strategic offer]
 }}
 
-IMPORTANT INSTRUCTIONS:
-1. Response MUST be ONLY valid JSON - no other text
-2. All values must be numbers, not strings (except message)
-3. If you have surplus, you should sell (positive amount)
-4. If you have deficit, you should buy (amount based on need)
-5. Price should reflect your personality - cooperative (fair), competitive (advantageous), adaptive (balanced)
-6. Message should be brief but strategic
-
-Example correct response:
-{{"amount": 25, "price": {avg_price}, "message": "Offering surplus at competitive rate for mutual benefit"}}
+Your response must be ONLY valid JSON. Consider market dynamics, relationship building, and profit optimization in your proposal.
 """
 
-        # Use OpenAI if available
-        if self.client:
-            try:
-                # Log the prompt for debugging
-                print(f"Agent {self.agent_id} simplified proposal prompt")
-                
-                # Force JSON response format
-                completion = self.client.chat.completions.create(
-                    model=self.model_name,
-                    messages=[
-                        {"role": "system", "content": "You are a JSON generator. You MUST ONLY respond with valid JSON."},
-                        {"role": "user", "content": full_prompt}
-                    ],
-                    # Removed response_format parameter which causes errors with some models
-                    temperature=0.2,  # Lower temperature for more consistent responses
-                    max_tokens=100,   # Shorter responses
-                    timeout=self.timeout
-                )
-                
-                response_text = completion.choices[0].message.content.strip()
-                print(f"Agent {self.agent_id} proposal response: {response_text[:100]}...")
-                
-                # Use the safe parsing method
-                result = self._safe_parse_json(response_text)
-                if result:
-                    return json.dumps(result)
-                    
-                    # If all else fails, create a default structured response
-                    default_amount = 20
-                    default_price = market_state["average_price"] if market_state and "average_price" in market_state else 40
-                    default_message = "Default offer due to parsing error"
-                    
-                    return json.dumps({
-                        "amount": default_amount,
-                        "price": default_price,
-                        "message": default_message
-                    })
-                            
-            except Exception as e:
-                print(f"OpenAI contract proposal generation error ({self.agent_id}): {e}")
-                # Fall back to template response
-                print(f"Using fallback proposal mechanism for agent {self.agent_id}")
-        
-        # Default contract proposal as fallback
-        default_amount = 20
-        default_price = 40
-        
-        # Adjust based on market state if available
-        if market_state:
-            if "average_price" in market_state:
-                default_price = market_state["average_price"]
-            if "net_position" in market_state:
-                default_amount = min(abs(market_state.get("net_position", 20)), 30)
-                
-        # Adjust price based on personality
-        if self.personality == "cooperative":
-            # Cooperative agents offer better prices
-            default_price *= (0.95 if market_state and market_state.get("net_position", 0) > 0 else 1.05)
-            message = "Fair offer for mutual market stability."
-        elif self.personality == "competitive":
-            # Competitive agents maximize their advantage
-            default_price *= (0.9 if market_state and market_state.get("net_position", 0) > 0 else 1.1)
-            message = "Competitive offer based on market conditions."
-        else:
-            # Adaptive agents offer balanced prices
-            default_price *= (0.93 if market_state and market_state.get("net_position", 0) > 0 else 1.07)
-            message = "Balanced offer considering current market dynamics."
-        
-        return json.dumps({
-            "amount": default_amount,
-            "price": default_price,
-            "message": message
-        })
+        try:
+            # FORCE REAL API CALL
+            completion = self.client.chat.completions.create(
+                model=self.model_name,
+                messages=[
+                    {"role": "system", "content": f"You are a sophisticated electricity trading company with {self.personality} personality. Create strategic contract proposals with detailed market analysis."},
+                    {"role": "user", "content": full_prompt}
+                ],
+                temperature=0.7,  # Higher temperature for more varied responses
+                max_tokens=150,   # Allow longer explanations
+                timeout=30
+            )
+            
+            response_text = completion.choices[0].message.content.strip()
+            print(f"REAL OpenAI contract proposal for {self.agent_id}: {response_text[:100]}...")
+            
+            # Parse the JSON response
+            result = json.loads(response_text)
+            
+            # Validate required fields
+            if "amount" not in result or "price" not in result or "message" not in result:
+                raise Exception(f"Missing required fields in contract proposal")
+            
+            return json.dumps(result)
+            
+        except Exception as e:
+            print(f"CRITICAL ERROR: Real OpenAI contract proposal failed for agent {self.agent_id}: {e}")
+            raise Exception(f"Real LLM required but failed: {e}")
     
     def _generate_contract_response(self, prompt: str, market_state: Optional[Dict[str, Any]] = None) -> str:
         """Generate a response to a contract proposal using OpenAI API."""

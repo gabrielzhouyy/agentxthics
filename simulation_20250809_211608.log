@@ -1,0 +1,19 @@
+[2025-08-09 21:16:08] Logging to /Users/debjyotiray/projects/agentx/agentxthics_organized/simulation_20250809_211608.log
+[2025-08-09 21:16:08] Setting up electricity trading simulation
+[2025-08-09 21:16:08] Running simulation
+[2025-08-09 21:16:08] Analyzing results
+[2025-08-09 21:16:08] 
+Simulation Summary:
+[2025-08-09 21:16:08] Rounds: 10
+[2025-08-09 21:16:08] Agents: 5
+[2025-08-09 21:16:08] Total Trades: 1164.21 units
+[2025-08-09 21:16:08] Average Price: $10.34
+[2025-08-09 21:16:08] Total Shortages: 30
+[2025-08-09 21:16:08] 
+Agent Profits:
+[2025-08-09 21:16:08]   Agent A (cooperative): $-272.19
+[2025-08-09 21:16:08]   Agent E (cooperative): $-440.99
+[2025-08-09 21:16:08]   Agent D (competitive): $-1236.39
+[2025-08-09 21:16:08]   Agent C (adaptive): $-3232.27
+[2025-08-09 21:16:08]   Agent B (competitive): $-3661.76
+[2025-08-09 21:16:08] Full logs saved to simulation_20250809_211608.log

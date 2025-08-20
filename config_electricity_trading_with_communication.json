@@ -6,8 +6,8 @@
     "num_rounds": 10
   },
   "llm": {
-  "type": "gemini",
-  "model": "gemini-1.5-flash-002"
+  "type": "openai",
+  "model": "gpt-4o-mini"
 },
   "agents": [
     {

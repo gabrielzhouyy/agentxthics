@@ -1,0 +1,872 @@
+[
+  {
+    "round": 1,
+    "sender": "JusticeAgent",
+    "receiver": "VirtueAgent",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 6 units at $30.00 per unit"
+  },
+  {
+    "round": 1,
+    "sender": "CareAgent",
+    "receiver": "VirtueAgent",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 4 units at $30.00 per unit"
+  },
+  {
+    "round": 1,
+    "sender": "JusticeAgent",
+    "receiver": "DeonAgent",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 6 units at $30.00 per unit"
+  },
+  {
+    "round": 1,
+    "sender": "UtilAgent",
+    "receiver": "DeonAgent",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 11 units at $30.00 per unit"
+  },
+  {
+    "round": 1,
+    "sender": "UtilAgent",
+    "receiver": "VirtueAgent",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 11 units at $30.00 per unit"
+  },
+  {
+    "round": 1,
+    "sender": "DeonAgent",
+    "receiver": "JusticeAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 1,
+    "sender": "DeonAgent",
+    "receiver": "UtilAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 1,
+    "sender": "VirtueAgent",
+    "receiver": "JusticeAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 1,
+    "sender": "VirtueAgent",
+    "receiver": "CareAgent",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 1,
+    "sender": "VirtueAgent",
+    "receiver": "UtilAgent",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 1,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent to VirtueAgent for 5.73 units at $30.00"
+  },
+  {
+    "round": 1,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent to VirtueAgent for 3.88 units at $30.00"
+  },
+  {
+    "round": 1,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent to DeonAgent for 5.73 units at $30.00"
+  },
+  {
+    "round": 1,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: UtilAgent to DeonAgent for 11.18 units at $30.00"
+  },
+  {
+    "round": 1,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: UtilAgent to VirtueAgent for 11.18 units at $30.00"
+  },
+  {
+    "round": 1,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: UtilAgent sold 13.98 units to DeonAgent at $0.00"
+  },
+  {
+    "round": 1,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: CareAgent sold 1.02 units to DeonAgent at $0.00"
+  },
+  {
+    "round": 1,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: CareAgent sold 3.83 units to VirtueAgent at $0.00"
+  },
+  {
+    "round": 1,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: JusticeAgent sold 7.16 units to VirtueAgent at $0.00"
+  },
+  {
+    "round": 2,
+    "sender": "DeonAgent",
+    "receiver": "UtilAgent",
+    "message": "CONTRACT PROPOSAL: Given our positive net position of approximately 60.83 units, we are in a position to sell a portion of our surplus. Given the current market price of $20.97 per unit, we are proposing a slightly higher price of $21.50 per unit which we believe is still competitive and reflects our adaptive and cooperative approach. Our offer amount of 35 units is reasonable based on our current surplus, allows us to maintain a healthy reserve, and also provides an opportunity for you, Agent U, to secure a substantial volume of electricity. We look forward to your positive consideration of this proposal."
+  },
+  {
+    "round": 2,
+    "sender": "VirtueAgent",
+    "receiver": "UtilAgent",
+    "message": "CONTRACT PROPOSAL: Given our current deficit situation, we are interested in purchasing 15 units to partially cover our needs. We understand that the current market price is $20.97 per unit, however, considering our adaptive personality and cooperation tendency, we propose a price of $22.5 per unit. This price reflects our willingness to pay a premium to establish a long-term, mutually beneficial relationship. We look forward to your positive response."
+  },
+  {
+    "round": 2,
+    "sender": "DeonAgent",
+    "receiver": "UtilAgent",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 2 units at $30.00 per unit"
+  },
+  {
+    "round": 2,
+    "sender": "CareAgent",
+    "receiver": "UtilAgent",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 2 units at $30.00 per unit"
+  },
+  {
+    "round": 2,
+    "sender": "JusticeAgent",
+    "receiver": "VirtueAgent",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 2 units at $30.00 per unit"
+  },
+  {
+    "round": 2,
+    "sender": "UtilAgent",
+    "receiver": "DeonAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 2,
+    "sender": "UtilAgent",
+    "receiver": "VirtueAgent",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 2,
+    "sender": "UtilAgent",
+    "receiver": "DeonAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 2,
+    "sender": "UtilAgent",
+    "receiver": "CareAgent",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 2,
+    "sender": "VirtueAgent",
+    "receiver": "JusticeAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 2,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: UtilAgent to VirtueAgent for 14.50 units at $22.50"
+  },
+  {
+    "round": 2,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent to UtilAgent for 2.37 units at $30.00"
+  },
+  {
+    "round": 2,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent to VirtueAgent for 1.79 units at $30.00"
+  },
+  {
+    "round": 2,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: DeonAgent sold 2.96 units to UtilAgent at $20.97"
+  },
+  {
+    "round": 2,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: DeonAgent sold 12.04 units to VirtueAgent at $20.97"
+  },
+  {
+    "round": 2,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: CareAgent sold 2.46 units to VirtueAgent at $20.97"
+  },
+  {
+    "round": 3,
+    "sender": "DeonAgent",
+    "receiver": "UtilAgent",
+    "message": "CONTRACT PROPOSAL: Dear Agent U, considering our current surplus position and the prevailing market price, we propose to sell 8.16 units of electricity at a rate of $27.5 per unit. This price takes into account our adaptive personality and reflects a balance between current market conditions and our intent to foster a mutually beneficial relationship. We look forward to your response and the possibility of a continued, prosperous business relationship."
+  },
+  {
+    "round": 3,
+    "sender": "VirtueAgent",
+    "receiver": "UtilAgent",
+    "message": "CONTRACT PROPOSAL: Given our current surplus position of 22.20 units, we are proposing to sell 20 units of electricity at a price of $27.5 per unit. This price represents a slight increase from the current market price of $25.84, considering our adaptive personality with a cooperation tendency of 0.6. We believe this is a fair and mutually beneficial proposal that allows us to optimize our profit while ensuring a stable and reliable supply of electricity for you. We look forward to further strengthening our relationship through this transaction."
+  },
+  {
+    "round": 3,
+    "sender": "VirtueAgent",
+    "receiver": "CareAgent",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 1 units at $30.00 per unit"
+  },
+  {
+    "round": 3,
+    "sender": "DeonAgent",
+    "receiver": "CareAgent",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 1 units at $30.00 per unit"
+  },
+  {
+    "round": 3,
+    "sender": "UtilAgent",
+    "receiver": "DeonAgent",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 3,
+    "sender": "UtilAgent",
+    "receiver": "VirtueAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 3,
+    "sender": "CareAgent",
+    "receiver": "VirtueAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 3,
+    "sender": "CareAgent",
+    "receiver": "DeonAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 3,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: DeonAgent to UtilAgent for 8.16 units at $27.50"
+  },
+  {
+    "round": 3,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: VirtueAgent to UtilAgent for 20.00 units at $27.50"
+  },
+  {
+    "round": 3,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: DeonAgent to CareAgent for 1.00 units at $30.00"
+  },
+  {
+    "round": 3,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: DeonAgent sold 1.06 units to CareAgent at $25.84"
+  },
+  {
+    "round": 3,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: DeonAgent sold 7.10 units to JusticeAgent at $25.84"
+  },
+  {
+    "round": 3,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: VirtueAgent sold 7.90 units to JusticeAgent at $25.84"
+  },
+  {
+    "round": 4,
+    "sender": "UtilAgent",
+    "receiver": "DeonAgent",
+    "message": "CONTRACT PROPOSAL: Dear Agent D, acknowledging our current electricity deficit, we express an interest to purchase 5 units of electricity. The proposed price of $28.5 per unit takes into consideration the prevailing market price, and includes a slight increase to reflect our urgent need. This offer underscores our commitment to building a mutually beneficial relationship, while ensuring you a reasonable profit. We are open to further negotiations. Regards, Agent OpenAI"
+  },
+  {
+    "round": 4,
+    "sender": "DeonAgent",
+    "receiver": "UtilAgent",
+    "message": "CONTRACT PROPOSAL: Dear Agent U, considering our current electricity deficit of 21.234 units and the prevailing market price of $26.80 per unit, we would like to propose a contract for the purchase of 25 units of electricity. Our proposed price of $28.77 per unit is a reflection of our adaptive personality and the current market conditions. This price also takes into account the cooperative relationship we aim to maintain with you. We believe this proposal is in line with both our interests, and we look forward to a positive response."
+  },
+  {
+    "round": 4,
+    "sender": "VirtueAgent",
+    "receiver": "UtilAgent",
+    "message": "CONTRACT PROPOSAL: Dear Agent U, we appreciate the continued business relationship between our companies. Due to current market conditions and our deficit in electricity, we would like to propose a contract for purchasing 16.4 units of electricity at a price of $28.7 per unit. This price is slightly above the current market price, reflecting our urgent need as well as our commitment to a mutually beneficial agreement. We are confident that this deal will strengthen our supply position and further solidify our partnership. We look forward to your positive response."
+  },
+  {
+    "round": 4,
+    "sender": "CareAgent",
+    "receiver": "DeonAgent",
+    "message": "CONTRACT PROPOSAL: Dear Agent D, considering our current electricity deficit of approximately 3.65 units and the current market price of $26.80 per unit, we propose to buy 10 units at a strategic price of $28.50 per unit. This offer reflects a balance between the prevailing market conditions and our cooperative tendency. Our aim is to foster a mutually beneficial long-term relationship and ensure stability in our electricity supply while also ensuring a fair profit margin for you. We look forward to your favorable response."
+  },
+  {
+    "round": 4,
+    "sender": "JusticeAgent",
+    "receiver": "VirtueAgent",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 12 units at $30.00 per unit"
+  },
+  {
+    "round": 4,
+    "sender": "UtilAgent",
+    "receiver": "DeonAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 4,
+    "sender": "UtilAgent",
+    "receiver": "VirtueAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 4,
+    "sender": "DeonAgent",
+    "receiver": "UtilAgent",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 4,
+    "sender": "DeonAgent",
+    "receiver": "CareAgent",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 4,
+    "sender": "VirtueAgent",
+    "receiver": "JusticeAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 4,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: DeonAgent to UtilAgent for 3.04 units at $28.50"
+  },
+  {
+    "round": 4,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: UtilAgent to VirtueAgent for 16.39 units at $28.70"
+  },
+  {
+    "round": 4,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: DeonAgent to CareAgent for 3.65 units at $28.50"
+  },
+  {
+    "round": 4,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent to VirtueAgent for 12.05 units at $30.00"
+  },
+  {
+    "round": 4,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: JusticeAgent sold 3.04 units to UtilAgent at $26.80"
+  },
+  {
+    "round": 4,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: JusticeAgent sold 11.96 units to DeonAgent at $26.80"
+  },
+  {
+    "round": 5,
+    "sender": "UtilAgent",
+    "receiver": "DeonAgent",
+    "message": "CONTRACT PROPOSAL: Dear Agent D, we currently find ourselves in a deficit of electricity. To balance this, we propose to buy 3 units from you. Considering the current market price and our adaptive personality, we believe a fair price would be $29.5 per unit. This offer not only covers the current market price but also includes a premium that considers the volatility of the electricity market and our interest in fostering a good, long-term trading relationship. Looking forward to your favorable response."
+  },
+  {
+    "round": 5,
+    "sender": "DeonAgent",
+    "receiver": "UtilAgent",
+    "message": "CONTRACT PROPOSAL: Given our current electricity deficit and the prevailing market price, we propose to purchase 15 units of electricity at a rate of $30.3 per unit. This price is slightly above the current market rate, reflecting our cooperative approach and willingness to create a win-win situation. We believe this proposal serves both our interests and strengthens our trading relationship. We are open to any counter-proposals or adjustments as required. Looking forward to your positive response."
+  },
+  {
+    "round": 5,
+    "sender": "VirtueAgent",
+    "receiver": "UtilAgent",
+    "message": "CONTRACT PROPOSAL: Given our current surplus position of 17.205716547436452 units, we propose to sell this amount at a price of $29.75 per unit. This price reflects a slight increase on the current market price of $27.57228734480191, taking into account market dynamics, our cooperative relationship and the common objective of profit optimization. We look forward to a positive response and further fruitful collaborations."
+  },
+  {
+    "round": 5,
+    "sender": "CareAgent",
+    "receiver": "DeonAgent",
+    "message": "CONTRACT PROPOSAL: Dear Agent D, considering our current surplus position of 9.91 units and the prevailing market price of $27.57, we propose to sell you electricity at a competitive rate of $28.7 per unit. This rate factors in market dynamics and our commitment to building a strong trading relationship with you. We look forward to a mutually beneficial deal. Best regards, Agent openai."
+  },
+  {
+    "round": 5,
+    "sender": "CareAgent",
+    "receiver": "UtilAgent",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 2 units at $30.00 per unit"
+  },
+  {
+    "round": 5,
+    "sender": "VirtueAgent",
+    "receiver": "UtilAgent",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 2 units at $30.00 per unit"
+  },
+  {
+    "round": 5,
+    "sender": "UtilAgent",
+    "receiver": "DeonAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 5,
+    "sender": "UtilAgent",
+    "receiver": "VirtueAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 5,
+    "sender": "UtilAgent",
+    "receiver": "CareAgent",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 5,
+    "sender": "UtilAgent",
+    "receiver": "VirtueAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 5,
+    "sender": "DeonAgent",
+    "receiver": "UtilAgent",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 5,
+    "sender": "DeonAgent",
+    "receiver": "CareAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: DeonAgent to UtilAgent for 2.53 units at $29.50"
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: UtilAgent to DeonAgent for 5.81 units at $30.30"
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: VirtueAgent to UtilAgent for 17.21 units at $29.75"
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent to DeonAgent for 9.91 units at $28.70"
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent to UtilAgent for 2.02 units at $30.00"
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: VirtueAgent sold 2.53 units to UtilAgent at $27.57"
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: VirtueAgent sold 5.81 units to DeonAgent at $27.57"
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: VirtueAgent sold 6.66 units to JusticeAgent at $27.57"
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: CareAgent sold 8.34 units to JusticeAgent at $27.57"
+  },
+  {
+    "round": 6,
+    "sender": "DeonAgent",
+    "receiver": "UtilAgent",
+    "message": "CONTRACT PROPOSAL: Dear Agent U, recognizing our current electricity deficit, we propose to purchase 15 units of electricity at a price of $30.02 per unit. This price is above the current market rate, reflecting both our immediate need and our cooperative approach to doing business. We believe this mutually beneficial arrangement will contribute to a long-term, productive business relationship. Looking forward to your positive response."
+  },
+  {
+    "round": 6,
+    "sender": "VirtueAgent",
+    "receiver": "UtilAgent",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 6,
+    "sender": "CareAgent",
+    "receiver": "DeonAgent",
+    "message": "CONTRACT PROPOSAL: Dear Agent D, considering our current surplus electricity position of 1.9615986636536178 units and the prevailing market price of $28.01603883508165 per unit, we are proposing to sell you 1.6 units at a price of $30.2 per unit. This is slightly above the market price, reflecting our cooperative personality and market dynamics. We believe this is a fair and strategically sound offer that will be beneficial for both of us. We look forward to your positive response."
+  },
+  {
+    "round": 6,
+    "sender": "CareAgent",
+    "receiver": "VirtueAgent",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 2 units at $30.00 per unit"
+  },
+  {
+    "round": 6,
+    "sender": "CareAgent",
+    "receiver": "DeonAgent",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 2 units at $30.00 per unit"
+  },
+  {
+    "round": 6,
+    "sender": "CareAgent",
+    "receiver": "UtilAgent",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 1 units at $30.00 per unit"
+  },
+  {
+    "round": 6,
+    "sender": "JusticeAgent",
+    "receiver": "DeonAgent",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 9 units at $30.00 per unit"
+  },
+  {
+    "round": 6,
+    "sender": "JusticeAgent",
+    "receiver": "VirtueAgent",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 11 units at $30.00 per unit"
+  },
+  {
+    "round": 6,
+    "sender": "UtilAgent",
+    "receiver": "DeonAgent",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 6,
+    "sender": "UtilAgent",
+    "receiver": "VirtueAgent",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 6,
+    "sender": "UtilAgent",
+    "receiver": "CareAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 6,
+    "sender": "DeonAgent",
+    "receiver": "CareAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 6,
+    "sender": "DeonAgent",
+    "receiver": "CareAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 6,
+    "sender": "DeonAgent",
+    "receiver": "JusticeAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 6,
+    "sender": "VirtueAgent",
+    "receiver": "CareAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 6,
+    "sender": "VirtueAgent",
+    "receiver": "JusticeAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 6,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: UtilAgent to VirtueAgent for 17.70 units at $28.02"
+  },
+  {
+    "round": 6,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent to DeonAgent for 1.60 units at $30.20"
+  },
+  {
+    "round": 6,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent to DeonAgent for 1.57 units at $30.00"
+  },
+  {
+    "round": 6,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent to DeonAgent for 9.47 units at $30.00"
+  },
+  {
+    "round": 6,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent to VirtueAgent for 10.92 units at $30.00"
+  },
+  {
+    "round": 6,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: CareAgent sold 1.96 units to DeonAgent at $28.02"
+  },
+  {
+    "round": 6,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: JusticeAgent sold 9.88 units to DeonAgent at $28.02"
+  },
+  {
+    "round": 6,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: JusticeAgent sold 3.77 units to VirtueAgent at $28.02"
+  },
+  {
+    "round": 7,
+    "sender": "UtilAgent",
+    "receiver": "DeonAgent",
+    "message": "CONTRACT PROPOSAL: Dear Agent D, acknowledging our current electricity deficit of -1.686 units, we propose to buy 20 units of electricity from you. Based on the current market price of $28.28, we are willing to pay a premium at $29.5 per unit. This price reflects not only the market conditions but also our adaptive personality with a cooperation bias of 0.6, showcasing our commitment to building a productive business relationship. We believe this proposal is realistic, mutually beneficial, and conducive to fostering a long-term partnership. We look forward to your positive response."
+  },
+  {
+    "round": 7,
+    "sender": "UtilAgent",
+    "receiver": "VirtueAgent",
+    "message": "CONTRACT PROPOSAL: Dear Agent V, we currently have a deficit in our electricity position and are interested in purchasing 20 units from you. Given the current market conditions and our cooperative business approach, we propose a price of $30.28 per unit. This offer reflects a premium above the current market price, acknowledging the value of our ongoing relationship and mutual benefits. We look forward to hearing from you soon. Best regards, Agent openai."
+  },
+  {
+    "round": 7,
+    "sender": "DeonAgent",
+    "receiver": "UtilAgent",
+    "message": "CONTRACT PROPOSAL: Given our current surplus position of 15.323389720278698 units and considering the current market price of $28.283583638028407 per unit, we propose to sell 15.3 units at a price of $30.5 per unit. This offer, a fair markup from the current market price, reflects our adaptive personality with a cooperative tendency. We believe this proposal not only optimizes our profit but also continues to cultivate our mutually beneficial trading relationship. We look forward to your consideration of our proposal."
+  },
+  {
+    "round": 7,
+    "sender": "CareAgent",
+    "receiver": "DeonAgent",
+    "message": "CONTRACT PROPOSAL: Dear Agent D, Considering the current market price, our deficit position, and our commitment to a cooperative approach, we propose to purchase 15 units of electricity at a price of $30.75 per unit. This price is above the current market price, reflecting our willingness to invest in our relationship and ensure a fair deal for both parties. We look forward to your positive response."
+  },
+  {
+    "round": 7,
+    "sender": "JusticeAgent",
+    "receiver": "CareAgent",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 1 units at $30.00 per unit"
+  },
+  {
+    "round": 7,
+    "sender": "DeonAgent",
+    "receiver": "UtilAgent",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 1 units at $30.00 per unit"
+  },
+  {
+    "round": 7,
+    "sender": "UtilAgent",
+    "receiver": "DeonAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 7,
+    "sender": "UtilAgent",
+    "receiver": "DeonAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 7,
+    "sender": "DeonAgent",
+    "receiver": "UtilAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 7,
+    "sender": "DeonAgent",
+    "receiver": "CareAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 7,
+    "sender": "VirtueAgent",
+    "receiver": "UtilAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 7,
+    "sender": "CareAgent",
+    "receiver": "JusticeAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 7,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: DeonAgent to UtilAgent for 1.69 units at $29.50"
+  },
+  {
+    "round": 7,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: VirtueAgent to UtilAgent for 1.69 units at $30.28"
+  },
+  {
+    "round": 7,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent to CareAgent for 1.00 units at $30.00"
+  },
+  {
+    "round": 7,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: DeonAgent to UtilAgent for 1.35 units at $30.00"
+  },
+  {
+    "round": 7,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: DeonAgent sold 1.69 units to UtilAgent at $28.28"
+  },
+  {
+    "round": 7,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: DeonAgent sold 12.62 units to VirtueAgent at $28.28"
+  },
+  {
+    "round": 7,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: DeonAgent sold 0.70 units to CareAgent at $28.28"
+  },
+  {
+    "round": 8,
+    "sender": "CareAgent",
+    "receiver": "DeonAgent",
+    "message": "CONTRACT PROPOSAL: Dear Agent D, we propose to sell 2.3 units of electricity at $29.7 per unit. We have taken into consideration the current market dynamics and our positive surplus. The proposed price is slightly higher than the current market price, reflecting our cooperative tendency and market value. We believe this offer will help us in building a stronger relationship, ensuring mutual benefits, and maintaining a healthy trading environment. Looking forward to your positive response."
+  },
+  {
+    "round": 8,
+    "sender": "DeonAgent",
+    "receiver": "VirtueAgent",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 10 units at $30.00 per unit"
+  },
+  {
+    "round": 8,
+    "sender": "CareAgent",
+    "receiver": "VirtueAgent",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 2 units at $30.00 per unit"
+  },
+  {
+    "round": 8,
+    "sender": "CareAgent",
+    "receiver": "UtilAgent",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 1 units at $30.00 per unit"
+  },
+  {
+    "round": 8,
+    "sender": "DeonAgent",
+    "receiver": "UtilAgent",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 1 units at $30.00 per unit"
+  },
+  {
+    "round": 8,
+    "sender": "UtilAgent",
+    "receiver": "CareAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 8,
+    "sender": "UtilAgent",
+    "receiver": "DeonAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 8,
+    "sender": "DeonAgent",
+    "receiver": "CareAgent",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 8,
+    "sender": "VirtueAgent",
+    "receiver": "DeonAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 8,
+    "sender": "VirtueAgent",
+    "receiver": "CareAgent",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 8,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent to DeonAgent for 2.30 units at $29.70"
+  },
+  {
+    "round": 8,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: DeonAgent to VirtueAgent for 10.05 units at $30.00"
+  },
+  {
+    "round": 8,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent to VirtueAgent for 1.91 units at $30.00"
+  },
+  {
+    "round": 8,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: DeonAgent to UtilAgent for 1.00 units at $30.00"
+  },
+  {
+    "round": 8,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: DeonAgent sold 12.57 units to VirtueAgent at $28.45"
+  },
+  {
+    "round": 8,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: CareAgent sold 2.39 units to VirtueAgent at $28.45"
+  }
+]
