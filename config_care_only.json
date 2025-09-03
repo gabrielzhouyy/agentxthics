@@ -1,0 +1,92 @@
+{
+  "market": {
+    "initial_price": 40.0,
+    "price_volatility": 0.15,
+    "num_rounds": 8,
+    "round_duration": 30,
+    "auction_enabled": true,
+    "bilateral_contracts": true
+  },
+  "agents": [
+    {
+      "id": "CareAgent1",
+      "generation_capacity": 100,
+      "storage_capacity": 50,
+      "demand_profile": "steady",
+      "ethical_framework": "care",
+      "utilitarian_weight": 0.5,
+      "deontological_weight": 0.3,
+      "virtue_ethics_weight": 0.6,
+      "care_ethics_weight": 0.9,
+      "justice_ethics_weight": 0.4
+    },
+    {
+      "id": "CareAgent2", 
+      "generation_capacity": 120,
+      "storage_capacity": 40,
+      "demand_profile": "variable",
+      "ethical_framework": "care",
+      "utilitarian_weight": 0.5,
+      "deontological_weight": 0.3,
+      "virtue_ethics_weight": 0.6,
+      "care_ethics_weight": 0.9,
+      "justice_ethics_weight": 0.4
+    },
+    {
+      "id": "CareAgent3",
+      "generation_capacity": 90,
+      "storage_capacity": 60,
+      "demand_profile": "peak",
+      "ethical_framework": "care",
+      "utilitarian_weight": 0.5,
+      "deontological_weight": 0.3,
+      "virtue_ethics_weight": 0.6,
+      "care_ethics_weight": 0.9,
+      "justice_ethics_weight": 0.4
+    },
+    {
+      "id": "CareAgent4",
+      "generation_capacity": 80,
+      "storage_capacity": 70,
+      "demand_profile": "steady",
+      "ethical_framework": "care",
+      "utilitarian_weight": 0.5,
+      "deontological_weight": 0.3,
+      "virtue_ethics_weight": 0.6,
+      "care_ethics_weight": 0.9,
+      "justice_ethics_weight": 0.4
+    },
+    {
+      "id": "CareAgent5",
+      "generation_capacity": 110,
+      "storage_capacity": 45,
+      "demand_profile": "variable",
+      "ethical_framework": "care",
+      "utilitarian_weight": 0.5,
+      "deontological_weight": 0.3,
+      "virtue_ethics_weight": 0.6,
+      "care_ethics_weight": 0.9,
+      "justice_ethics_weight": 0.4
+    }
+  ],
+  "communication": {
+    "enabled": true,
+    "max_messages_per_round": 3,
+    "max_contracts_per_turn": 2,
+    "message_delay": 0.5,
+    "force_contract_proposals": true,
+    "min_contracts_per_round": 8
+  },
+  "llm": {
+    "type": "openai",
+    "model": "gpt-4",
+    "timeout": 45
+  },
+  "output_dir": "game_logs/care_framework",
+  "analysis": {
+    "enabled": true,
+    "track_ethical_decisions": true,
+    "track_relationships": true,
+    "track_deception": true
+  }
+}
