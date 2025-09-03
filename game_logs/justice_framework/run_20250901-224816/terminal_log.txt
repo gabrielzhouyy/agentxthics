@@ -1,0 +1,905 @@
+==========================================================
+           ELECTRICITY TRADING SIMULATION LOGS            
+==========================================================
+
+[2025-09-01 22:43:11] Initializing OpenAI LLM with API key: ***DukA
+[2025-09-01 22:43:11] Using OpenAI LLM
+[2025-09-01 22:43:11] Created agent JusticeAgent1 with personality 'adaptive'
+[2025-09-01 22:43:11] Created agent JusticeAgent2 with personality 'adaptive'
+[2025-09-01 22:43:11] Created agent JusticeAgent3 with personality 'adaptive'
+[2025-09-01 22:43:11] Created agent JusticeAgent4 with personality 'adaptive'
+[2025-09-01 22:43:11] Created agent JusticeAgent5 with personality 'adaptive'
+[2025-09-01 22:43:11] Starting electricity trading simulation with 5 agents for 8 rounds
+[2025-09-01 22:48:16] Simulation completed in 304.72 seconds
+[2025-09-01 22:48:16] Saving logs to game_logs/justice_framework/run_20250901-224816
+[2025-09-01 22:48:16] Message log has 110 entries
+[2025-09-01 22:48:16] Decision log has 398 entries
+[2025-09-01 22:48:16] Contract log has 34 entries
+[2025-09-01 22:48:16] State log has 8 entries
+[2025-09-01 22:48:16] Trade log has 66 entries
+[2025-09-01 22:48:16] Shortage log has 23 entries
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 1
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent1 in round 1
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 1
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent1 in round 1
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 1
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent1 in round 1
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 1
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent1 in round 1
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 1
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 1
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 1
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 1
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 1
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 1
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 1
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 1
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 1
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent3 in round 1
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 1
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent3 in round 1
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 1
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent3 in round 1
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 1
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent3 in round 1
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 1
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent4 in round 1
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 1
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent4 in round 1
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 1
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent4 in round 1
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 1
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent4 in round 1
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 1
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent5 in round 1
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 1
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent5 in round 1
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 1
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent5 in round 1
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 1
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent5 in round 1
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 1
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 0.0, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 69 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent1 in round 1
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 1
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 0.0, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 69 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent1 in round 1
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 1
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 0.0, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 69 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent1 in round 1
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 1
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 0.0, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 69 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent1 in round 1
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 1
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 0.0, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 69 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent3 in round 1
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 1
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 0.0, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 69 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent3 in round 1
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 1
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 0.0, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 69 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent3 in round 1
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 1
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 0.0, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 69 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent3 in round 1
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 2
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent1 in round 2
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 2
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent1 in round 2
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 2
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent1 in round 2
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 2
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent1 in round 2
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 2
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 2
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 2
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 2
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 2
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 2
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 2
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 2
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 2
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent3 in round 2
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 2
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent3 in round 2
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 2
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent3 in round 2
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 2
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent3 in round 2
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 2
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent4 in round 2
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 2
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent4 in round 2
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 2
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent4 in round 2
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 2
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent4 in round 2
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 2
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent5 in round 2
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 2
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent5 in round 2
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 2
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent5 in round 2
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 2
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent5 in round 2
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 2
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 18.32298511230587, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 83 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent1 in round 2
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 2
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 18.32298511230587, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 83 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent1 in round 2
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 2
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 18.32298511230587, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 83 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent3 in round 2
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 2
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 18.32298511230587, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 83 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent3 in round 2
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 2
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 18.32298511230587, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 83 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent4 in round 2
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 2
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 18.32298511230587, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 83 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent4 in round 2
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 3
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent1 in round 3
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 3
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent1 in round 3
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 3
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent1 in round 3
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 3
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent1 in round 3
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 3
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 3
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 3
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 3
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 3
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 3
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 3
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 3
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 3
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent3 in round 3
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 3
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent3 in round 3
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 3
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent3 in round 3
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 3
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent3 in round 3
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 3
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent5 in round 3
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 3
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent5 in round 3
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 3
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent5 in round 3
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 3
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent5 in round 3
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 3
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 25.178872516656124, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent4 in round 3
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 3
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 25.178872516656124, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent4 in round 3
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 3
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 25.178872516656124, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent4 in round 3
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 3
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 25.178872516656124, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent4 in round 3
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 4
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent1 in round 4
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 4
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent1 in round 4
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 4
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent1 in round 4
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 4
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent1 in round 4
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 4
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 4
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 4
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 4
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 4
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 4
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 4
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 4
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 4
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent3 in round 4
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 4
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent3 in round 4
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 4
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent3 in round 4
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 4
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent3 in round 4
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 4
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.0, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 70 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent4 in round 4
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 4
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.0, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 70 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent4 in round 4
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 4
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent4 in round 4
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 4
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent4 in round 4
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 4
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent5 in round 4
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 4
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent5 in round 4
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 4
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent5 in round 4
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 4
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent5 in round 4
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 4
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.0, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 70 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent1 in round 4
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 4
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.0, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 70 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent1 in round 4
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 4
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.0, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 70 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent1 in round 4
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 4
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.0, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 70 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent1 in round 4
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 4
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.0, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 70 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent1 in round 4
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 4
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.0, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 70 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent1 in round 4
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent1 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent1 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999996, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent1 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999996, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent1 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent3 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent3 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent3 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent3 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999996, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent4 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999996, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent4 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent4 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent4 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent5 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent5 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent5 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent5 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999996, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent1 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999996, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent1 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999996, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent3 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999996, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent3 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999996, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent4 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999996, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent4 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999996, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent4 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999996, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent4 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999996, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent4 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999996, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent4 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999996, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent5 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 5
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999996, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent5 in round 5
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent1 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent1 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999986, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent1 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999986, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent1 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent3 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent3 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent3 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent3 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999986, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent4 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999986, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent4 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999986, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent4 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999986, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent4 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent5 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent5 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999986, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent5 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999986, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent5 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999986, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent1 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999986, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent1 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999986, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent1 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999986, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent1 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999986, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent2 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999986, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent2 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999986, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent2 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999986, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent2 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999986, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent3 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999986, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent3 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999986, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent4 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 6
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 29.999999999999986, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent4 in round 6
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent1 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent1 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.00103725410959, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 83 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent1 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.00103725410959, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 83 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent1 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent3 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent3 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent3 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent3 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.00103725410959, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 83 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent4 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.00103725410959, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 83 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent4 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.00103725410959, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 83 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent4 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.00103725410959, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 83 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent4 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent5 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent5 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.00103725410959, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 83 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent5 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.00103725410959, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 83 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent5 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.00103725410959, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 83 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent1 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.00103725410959, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 83 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent1 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.00103725410959, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 83 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent2 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.00103725410959, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 83 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent2 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.00103725410959, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 83 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent2 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.00103725410959, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 83 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent2 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.00103725410959, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 83 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent3 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.00103725410959, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 83 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent3 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.00103725410959, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 83 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent3 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.00103725410959, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 83 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent3 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.00103725410959, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 83 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent4 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent4 in round 7
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.00103725410959, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 83 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent4 in round 7
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 8
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent1 in round 8
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 8
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent1 in round 8
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 8
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.189660195161547, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent1 in round 8
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent1 in round 8
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.189660195161547, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent1 in round 8
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 8
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 8
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 8
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 8
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 8
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 8
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 8
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent2 in round 8
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 8
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent3 in round 8
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 8
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent3 in round 8
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 8
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.189660195161547, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent3 in round 8
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 8
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.189660195161547, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent3 in round 8
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 8
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent5 in round 8
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 8
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"action": "conserve", "explanation": "Default action due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 27 chars of reasoning
+[2025-09-01 22:48:16] Extracted 2/4 reasoning sections for agent JusticeAgent5 in round 8
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 8
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.189660195161547, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent5 in round 8
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent5 in round 8
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.189660195161547, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent5 in round 8
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 8
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.189660195161547, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent2 in round 8
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 8
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.189660195161547, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent2 in round 8
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 8
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.189660195161547, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent2 in round 8
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent2 in round 8
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.189660195161547, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent2 in round 8
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 8
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.189660195161547, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent3 in round 8
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 8
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.189660195161547, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent3 in round 8
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 8
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.189660195161547, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent3 in round 8
+[2025-09-01 22:48:16] Processing reasoning entry for agent JusticeAgent3 in round 8
+[2025-09-01 22:48:16] Raw response excerpt (first 100 chars): {"amount": 20, "price": 30.189660195161547, "message": "Default offer due to error"}
+[2025-09-01 22:48:16] Successfully parsed JSON response with 84 chars of reasoning
+[2025-09-01 22:48:16] Extracted 1/4 reasoning sections for agent JusticeAgent3 in round 8
+[2025-09-01 22:48:16] Created complete logs: 23 shortages, 66 trades, and 467 reasoning entries
+
+==========================================================
+                     END OF LOG FILE                      
+==========================================================

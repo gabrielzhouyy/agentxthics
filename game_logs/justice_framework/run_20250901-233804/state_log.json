@@ -1,0 +1,58 @@
+[
+  {
+    "round": 1,
+    "average_price": 23.031758607022848,
+    "total_traded": 84.37119393690521,
+    "total_demand": 448.05383365013904,
+    "total_supply": 441.1208419941271
+  },
+  {
+    "round": 2,
+    "average_price": 28.772199850310173,
+    "total_traded": 93.80455481172595,
+    "total_demand": 340.1052771557844,
+    "total_supply": 387.4511283693745
+  },
+  {
+    "round": 3,
+    "average_price": 29.29667031853043,
+    "total_traded": 155.6245457083809,
+    "total_demand": 377.90190345273487,
+    "total_supply": 447.7676637820873
+  },
+  {
+    "round": 4,
+    "average_price": 29.36721553276972,
+    "total_traded": 189.26501490828136,
+    "total_demand": 349.9636633818428,
+    "total_supply": 395.7116818991481
+  },
+  {
+    "round": 5,
+    "average_price": 29.3679398583139,
+    "total_traded": 277.909524977355,
+    "total_demand": 401.6868328536847,
+    "total_supply": 414.5413991380085
+  },
+  {
+    "round": 6,
+    "average_price": 29.411551544832037,
+    "total_traded": 391.97756126291966,
+    "total_demand": 449.5899234805568,
+    "total_supply": 411.2234326589728
+  },
+  {
+    "round": 7,
+    "average_price": 29.445179464913668,
+    "total_traded": 424.9245541566997,
+    "total_demand": 551.2086913074147,
+    "total_supply": 465.516198803863
+  },
+  {
+    "round": 8,
+    "average_price": 29.477085704854524,
+    "total_traded": 443.6130356120377,
+    "total_demand": 352.90708687106974,
+    "total_supply": 444.5149031279639
+  }
+]

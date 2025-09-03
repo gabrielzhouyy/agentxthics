@@ -1,0 +1,142 @@
+[
+  {
+    "round": 1,
+    "agent": "JusticeAgent1",
+    "amount": 4.597294865534863,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent5",
+    "amount": 38.1419381115611,
+    "impact": "high",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent3",
+    "amount": 7.478399363020031,
+    "impact": "medium",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent5",
+    "amount": 3.3167616609541923,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent3",
+    "amount": 6.363340541577557,
+    "impact": "medium",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent4",
+    "amount": 6.84925906249552,
+    "impact": "medium",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent3",
+    "amount": 2.8534461208033406,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent2",
+    "amount": 14.47301733867512,
+    "impact": "medium",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent3",
+    "amount": 6.095059738116532,
+    "impact": "medium",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent4",
+    "amount": 7.461488068040296,
+    "impact": "medium",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent2",
+    "amount": 19.34757245761358,
+    "impact": "medium",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent3",
+    "amount": 30.769903027071848,
+    "impact": "high",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent4",
+    "amount": 0.346739427847055,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent2",
+    "amount": 23.483332603247362,
+    "impact": "high",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent3",
+    "amount": 19.11775844341004,
+    "impact": "medium",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent4",
+    "amount": 0.1299544469468259,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent5",
+    "amount": 48.38035104066894,
+    "impact": "high",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent1",
+    "amount": 3.2704705557424347,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent3",
+    "amount": 3.9651450205719385,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent4",
+    "amount": 1.4707736076783817,
+    "impact": "low",
+    "timestamp": 0
+  }
+]

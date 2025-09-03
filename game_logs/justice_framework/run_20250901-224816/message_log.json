@@ -1,0 +1,662 @@
+[
+  {
+    "round": 1,
+    "sender": "JusticeAgent5",
+    "receiver": "JusticeAgent3",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 2 units at $30.00 per unit"
+  },
+  {
+    "round": 1,
+    "sender": "JusticeAgent5",
+    "receiver": "JusticeAgent1",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 6 units at $30.00 per unit"
+  },
+  {
+    "round": 1,
+    "sender": "JusticeAgent4",
+    "receiver": "JusticeAgent1",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 1 units at $30.00 per unit"
+  },
+  {
+    "round": 1,
+    "sender": "JusticeAgent4",
+    "receiver": "JusticeAgent3",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 1 units at $30.00 per unit"
+  },
+  {
+    "round": 1,
+    "sender": "JusticeAgent1",
+    "receiver": "JusticeAgent5",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 1,
+    "sender": "JusticeAgent1",
+    "receiver": "JusticeAgent4",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 1,
+    "sender": "JusticeAgent3",
+    "receiver": "JusticeAgent5",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 1,
+    "sender": "JusticeAgent3",
+    "receiver": "JusticeAgent4",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 1,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent5 to JusticeAgent3 for 2.05 units at $30.00"
+  },
+  {
+    "round": 1,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent5 to JusticeAgent1 for 5.66 units at $30.00"
+  },
+  {
+    "round": 1,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent4 to JusticeAgent1 for 1.00 units at $30.00"
+  },
+  {
+    "round": 1,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent4 to JusticeAgent3 for 1.00 units at $30.00"
+  },
+  {
+    "round": 1,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: JusticeAgent4 sold 1.12 units to JusticeAgent1 at $0.00"
+  },
+  {
+    "round": 1,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: JusticeAgent5 sold 5.96 units to JusticeAgent1 at $0.00"
+  },
+  {
+    "round": 1,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: JusticeAgent5 sold 1.70 units to JusticeAgent2 at $0.00"
+  },
+  {
+    "round": 2,
+    "sender": "JusticeAgent5",
+    "receiver": "JusticeAgent1",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 2 units at $30.00 per unit"
+  },
+  {
+    "round": 2,
+    "sender": "JusticeAgent5",
+    "receiver": "JusticeAgent3",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 2 units at $30.00 per unit"
+  },
+  {
+    "round": 2,
+    "sender": "JusticeAgent5",
+    "receiver": "JusticeAgent4",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 2 units at $30.00 per unit"
+  },
+  {
+    "round": 2,
+    "sender": "JusticeAgent1",
+    "receiver": "JusticeAgent5",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 2,
+    "sender": "JusticeAgent3",
+    "receiver": "JusticeAgent5",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 2,
+    "sender": "JusticeAgent4",
+    "receiver": "JusticeAgent5",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 2,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent5 to JusticeAgent4 for 1.92 units at $30.00"
+  },
+  {
+    "round": 2,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: JusticeAgent5 sold 2.26 units to JusticeAgent1 at $18.32"
+  },
+  {
+    "round": 2,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: JusticeAgent5 sold 8.44 units to JusticeAgent2 at $18.32"
+  },
+  {
+    "round": 2,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: JusticeAgent5 sold 2.38 units to JusticeAgent3 at $18.32"
+  },
+  {
+    "round": 2,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: JusticeAgent5 sold 1.92 units to JusticeAgent4 at $18.32"
+  },
+  {
+    "round": 3,
+    "sender": "JusticeAgent3",
+    "receiver": "JusticeAgent4",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 1 units at $30.00 per unit"
+  },
+  {
+    "round": 3,
+    "sender": "JusticeAgent1",
+    "receiver": "JusticeAgent4",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 1 units at $30.00 per unit"
+  },
+  {
+    "round": 3,
+    "sender": "JusticeAgent4",
+    "receiver": "JusticeAgent3",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 3,
+    "sender": "JusticeAgent4",
+    "receiver": "JusticeAgent1",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 3,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent3 to JusticeAgent4 for 1.00 units at $30.00"
+  },
+  {
+    "round": 3,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent1 to JusticeAgent4 for 1.00 units at $30.00"
+  },
+  {
+    "round": 4,
+    "sender": "JusticeAgent4",
+    "receiver": "JusticeAgent1",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 4,
+    "sender": "JusticeAgent3",
+    "receiver": "JusticeAgent1",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 5 units at $30.00 per unit"
+  },
+  {
+    "round": 4,
+    "sender": "JusticeAgent5",
+    "receiver": "JusticeAgent1",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 5 units at $30.00 per unit"
+  },
+  {
+    "round": 4,
+    "sender": "JusticeAgent1",
+    "receiver": "JusticeAgent4",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 4,
+    "sender": "JusticeAgent1",
+    "receiver": "JusticeAgent3",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 4,
+    "sender": "JusticeAgent1",
+    "receiver": "JusticeAgent5",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 4,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent3 to JusticeAgent1 for 5.19 units at $30.00"
+  },
+  {
+    "round": 4,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent5 to JusticeAgent1 for 5.19 units at $30.00"
+  },
+  {
+    "round": 4,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: JusticeAgent2 sold 6.48 units to JusticeAgent1 at $30.00"
+  },
+  {
+    "round": 5,
+    "sender": "JusticeAgent1",
+    "receiver": "JusticeAgent3",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 5,
+    "sender": "JusticeAgent4",
+    "receiver": "JusticeAgent1",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 5,
+    "sender": "JusticeAgent2",
+    "receiver": "JusticeAgent4",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 2 units at $30.00 per unit"
+  },
+  {
+    "round": 5,
+    "sender": "JusticeAgent3",
+    "receiver": "JusticeAgent4",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 2 units at $30.00 per unit"
+  },
+  {
+    "round": 5,
+    "sender": "JusticeAgent2",
+    "receiver": "JusticeAgent5",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 8 units at $30.00 per unit"
+  },
+  {
+    "round": 5,
+    "sender": "JusticeAgent1",
+    "receiver": "JusticeAgent4",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 2 units at $30.00 per unit"
+  },
+  {
+    "round": 5,
+    "sender": "JusticeAgent1",
+    "receiver": "JusticeAgent4",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 5,
+    "sender": "JusticeAgent3",
+    "receiver": "JusticeAgent1",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 5,
+    "sender": "JusticeAgent4",
+    "receiver": "JusticeAgent2",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 5,
+    "sender": "JusticeAgent4",
+    "receiver": "JusticeAgent3",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 5,
+    "sender": "JusticeAgent4",
+    "receiver": "JusticeAgent1",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 5,
+    "sender": "JusticeAgent5",
+    "receiver": "JusticeAgent2",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent1 to JusticeAgent4 for 1.96 units at $30.00"
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent2 to JusticeAgent4 for 1.57 units at $30.00"
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent2 to JusticeAgent5 for 8.47 units at $30.00"
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: JusticeAgent1 sold 1.96 units to JusticeAgent4 at $30.00"
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: JusticeAgent1 sold 2.04 units to JusticeAgent5 at $30.00"
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: JusticeAgent2 sold 10.58 units to JusticeAgent5 at $30.00"
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: JusticeAgent3 sold 2.38 units to JusticeAgent5 at $30.00"
+  },
+  {
+    "round": 6,
+    "sender": "JusticeAgent1",
+    "receiver": "JusticeAgent3",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 6,
+    "sender": "JusticeAgent4",
+    "receiver": "JusticeAgent1",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 6,
+    "sender": "JusticeAgent4",
+    "receiver": "JusticeAgent2",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 6,
+    "sender": "JusticeAgent5",
+    "receiver": "JusticeAgent2",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 6,
+    "sender": "JusticeAgent5",
+    "receiver": "JusticeAgent1",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 2 units at $30.06 per unit"
+  },
+  {
+    "round": 6,
+    "sender": "JusticeAgent5",
+    "receiver": "JusticeAgent4",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 1 units at $30.00 per unit"
+  },
+  {
+    "round": 6,
+    "sender": "JusticeAgent1",
+    "receiver": "JusticeAgent4",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 6,
+    "sender": "JusticeAgent1",
+    "receiver": "JusticeAgent5",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 6,
+    "sender": "JusticeAgent2",
+    "receiver": "JusticeAgent4",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 6,
+    "sender": "JusticeAgent2",
+    "receiver": "JusticeAgent5",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 6,
+    "sender": "JusticeAgent3",
+    "receiver": "JusticeAgent1",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 6,
+    "sender": "JusticeAgent4",
+    "receiver": "JusticeAgent5",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 6,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent3 to JusticeAgent1 for 2.09 units at $30.00"
+  },
+  {
+    "round": 6,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent5 to JusticeAgent2 for 5.34 units at $30.00"
+  },
+  {
+    "round": 6,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent5 to JusticeAgent1 for 1.67 units at $30.06"
+  },
+  {
+    "round": 6,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent5 to JusticeAgent4 for 1.00 units at $30.00"
+  },
+  {
+    "round": 6,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: JusticeAgent5 sold 2.09 units to JusticeAgent1 at $30.00"
+  },
+  {
+    "round": 6,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: JusticeAgent5 sold 3.25 units to JusticeAgent2 at $30.00"
+  },
+  {
+    "round": 7,
+    "sender": "JusticeAgent1",
+    "receiver": "JusticeAgent3",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 7,
+    "sender": "JusticeAgent4",
+    "receiver": "JusticeAgent1",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 7,
+    "sender": "JusticeAgent4",
+    "receiver": "JusticeAgent2",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 7,
+    "sender": "JusticeAgent5",
+    "receiver": "JusticeAgent2",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 7,
+    "sender": "JusticeAgent2",
+    "receiver": "JusticeAgent3",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 11 units at $31.40 per unit"
+  },
+  {
+    "round": 7,
+    "sender": "JusticeAgent2",
+    "receiver": "JusticeAgent4",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 2 units at $31.33 per unit"
+  },
+  {
+    "round": 7,
+    "sender": "JusticeAgent1",
+    "receiver": "JusticeAgent4",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 7,
+    "sender": "JusticeAgent2",
+    "receiver": "JusticeAgent4",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 7,
+    "sender": "JusticeAgent2",
+    "receiver": "JusticeAgent5",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 7,
+    "sender": "JusticeAgent3",
+    "receiver": "JusticeAgent1",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 7,
+    "sender": "JusticeAgent3",
+    "receiver": "JusticeAgent2",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 7,
+    "sender": "JusticeAgent4",
+    "receiver": "JusticeAgent2",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 7,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent1 to JusticeAgent4 for 2.03 units at $30.00"
+  },
+  {
+    "round": 7,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent2 to JusticeAgent4 for 2.03 units at $30.00"
+  },
+  {
+    "round": 7,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent2 to JusticeAgent5 for 20.00 units at $30.00"
+  },
+  {
+    "round": 7,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent2 to JusticeAgent3 for 11.43 units at $31.40"
+  },
+  {
+    "round": 7,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: JusticeAgent2 sold 5.41 units to JusticeAgent1 at $30.00"
+  },
+  {
+    "round": 7,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: JusticeAgent2 sold 8.88 units to JusticeAgent3 at $30.00"
+  },
+  {
+    "round": 8,
+    "sender": "JusticeAgent1",
+    "receiver": "JusticeAgent3",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 8,
+    "sender": "JusticeAgent3",
+    "receiver": "JusticeAgent2",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 8,
+    "sender": "JusticeAgent5",
+    "receiver": "JusticeAgent2",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 8,
+    "sender": "JusticeAgent2",
+    "receiver": "JusticeAgent3",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 6 units at $31.90 per unit"
+  },
+  {
+    "round": 8,
+    "sender": "JusticeAgent2",
+    "receiver": "JusticeAgent3",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 8,
+    "sender": "JusticeAgent2",
+    "receiver": "JusticeAgent5",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 8,
+    "sender": "JusticeAgent3",
+    "receiver": "JusticeAgent1",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 8,
+    "sender": "JusticeAgent3",
+    "receiver": "JusticeAgent2",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 8,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent3 to JusticeAgent1 for 3.51 units at $30.19"
+  },
+  {
+    "round": 8,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent2 to JusticeAgent3 for 12.83 units at $30.19"
+  },
+  {
+    "round": 8,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent2 to JusticeAgent5 for 20.00 units at $30.19"
+  },
+  {
+    "round": 8,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: JusticeAgent2 to JusticeAgent3 for 5.92 units at $31.90"
+  },
+  {
+    "round": 8,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: JusticeAgent2 sold 3.51 units to JusticeAgent1 at $30.19"
+  },
+  {
+    "round": 8,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: JusticeAgent2 sold 3.89 units to JusticeAgent3 at $30.19"
+  }
+]

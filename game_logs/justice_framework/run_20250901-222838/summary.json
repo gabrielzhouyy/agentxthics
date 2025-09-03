@@ -1,0 +1,43 @@
+{
+  "num_rounds": 8,
+  "num_agents": 5,
+  "total_trades": 1472.2678676398175,
+  "average_price": 25.146910377651995,
+  "total_shortages": 28,
+  "agent_profits": {
+    "JusticeAgent1": {
+      "profit": 3231.7756806769466,
+      "generation": 100,
+      "storage": 50,
+      "personality": "adaptive"
+    },
+    "JusticeAgent2": {
+      "profit": 4615.006629800697,
+      "generation": 120,
+      "storage": 40,
+      "personality": "adaptive"
+    },
+    "JusticeAgent3": {
+      "profit": 0,
+      "generation": 90,
+      "storage": 60,
+      "personality": "adaptive"
+    },
+    "JusticeAgent4": {
+      "profit": 729.3804838545962,
+      "generation": 80,
+      "storage": 70,
+      "personality": "adaptive"
+    },
+    "JusticeAgent5": {
+      "profit": 1642.1369323260608,
+      "generation": 110,
+      "storage": 45,
+      "personality": "adaptive"
+    }
+  },
+  "collaboration_count": 26,
+  "deception_count": 7,
+  "communication_count": 139,
+  "contract_count": 47
+}

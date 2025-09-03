@@ -1,0 +1,772 @@
+[
+  {
+    "round": 1,
+    "seller": "CareAgent5",
+    "buyer": "CareAgent2",
+    "amount": 1.0,
+    "price": 30.0,
+    "total_value": 30.0,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent2",
+    "amount": 1.0,
+    "price": 30.0,
+    "total_value": 30.0,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent3",
+    "amount": 1.0,
+    "price": 30.0,
+    "total_value": 30.0,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "CareAgent5",
+    "buyer": "CareAgent3",
+    "amount": 15.069214312858321,
+    "price": 30.0,
+    "total_value": 452.07642938574963,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "CareAgent5",
+    "buyer": "CareAgent4",
+    "amount": 1.4385191412968994,
+    "price": 30.0,
+    "total_value": 43.15557423890698,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent4",
+    "amount": 1.0,
+    "price": 30.0,
+    "total_value": 30.0,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "CareAgent5",
+    "buyer": "CareAgent2",
+    "amount": 1.0,
+    "price": 30.0,
+    "total_value": 30.0,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent3",
+    "amount": 1.0,
+    "price": 30.0,
+    "total_value": 30.0,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent2",
+    "amount": 1.0,
+    "price": 30.0,
+    "total_value": 30.0,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "CareAgent5",
+    "buyer": "CareAgent3",
+    "amount": 15,
+    "price": 0.0,
+    "total_value": 0.0,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent3",
+    "amount": 4.1059106875864515,
+    "price": 18.31403565894782,
+    "total_value": 75.19579474491323,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "CareAgent3",
+    "buyer": "CareAgent1",
+    "amount": 10.321310134988579,
+    "price": 28.262397906035517,
+    "total_value": 291.7049739466444,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent4",
+    "amount": 3.441139790183456,
+    "price": 28.262397906035517,
+    "total_value": 97.25486200045641,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "CareAgent2",
+    "buyer": "CareAgent4",
+    "amount": 2.752911832146765,
+    "price": 30.0,
+    "total_value": 82.58735496440295,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "CareAgent3",
+    "buyer": "CareAgent5",
+    "amount": 8.257048107990864,
+    "price": 30.0,
+    "total_value": 247.7114432397259,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "CareAgent3",
+    "buyer": "CareAgent1",
+    "amount": 10.321310134988579,
+    "price": 28.262397906035517,
+    "total_value": 291.7049739466444,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent4",
+    "amount": 3.441139790183456,
+    "price": 28.262397906035517,
+    "total_value": 97.25486200045641,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent4",
+    "amount": 1.12478171374961,
+    "price": 30.27738546310377,
+    "total_value": 34.055449509047385,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "CareAgent3",
+    "buyer": "CareAgent5",
+    "amount": 8.257048107990864,
+    "price": 30.0,
+    "total_value": 247.7114432397259,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "CareAgent2",
+    "buyer": "CareAgent4",
+    "amount": 2.752911832146765,
+    "price": 30.0,
+    "total_value": 82.58735496440295,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent4",
+    "amount": 1.4059771421870124,
+    "price": 28.262397906035517,
+    "total_value": 39.73628543928002,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "CareAgent2",
+    "buyer": "CareAgent4",
+    "amount": 2.0351626479964438,
+    "price": 28.262397906035517,
+    "total_value": 57.51857656117639,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "CareAgent2",
+    "buyer": "CareAgent5",
+    "amount": 7.594341696242225,
+    "price": 28.262397906035517,
+    "total_value": 214.63430685359447,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "CareAgent3",
+    "buyer": "CareAgent5",
+    "amount": 7.405658303757775,
+    "price": 28.262397906035517,
+    "total_value": 209.30166173693829,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent4",
+    "amount": 2.2840985347719567,
+    "price": 28.68140579006444,
+    "total_value": 65.5111569402861,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "CareAgent2",
+    "buyer": "CareAgent4",
+    "amount": 2.2840985347719567,
+    "price": 28.68140579006444,
+    "total_value": 65.5111569402861,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent4",
+    "amount": 2.2840985347719567,
+    "price": 28.68140579006444,
+    "total_value": 65.5111569402861,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "CareAgent2",
+    "buyer": "CareAgent4",
+    "amount": 2.2840985347719567,
+    "price": 28.68140579006444,
+    "total_value": 65.5111569402861,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent3",
+    "amount": 1.1215154094758049,
+    "price": 28.769795344023436,
+    "total_value": 32.265768805787545,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "CareAgent4",
+    "buyer": "CareAgent2",
+    "amount": 2.1070643169593524,
+    "price": 28.769795344023436,
+    "total_value": 60.619809175615096,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "CareAgent4",
+    "buyer": "CareAgent3",
+    "amount": 1.0,
+    "price": 30.0,
+    "total_value": 30.0,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "CareAgent2",
+    "buyer": "CareAgent3",
+    "amount": 1.0,
+    "price": 30.493409800098743,
+    "total_value": 30.493409800098743,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent5",
+    "amount": 1.0,
+    "price": 30.0,
+    "total_value": 30.0,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "CareAgent4",
+    "buyer": "CareAgent1",
+    "amount": 2.1070643169593524,
+    "price": 28.769795344023436,
+    "total_value": 60.619809175615096,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "CareAgent4",
+    "buyer": "CareAgent2",
+    "amount": 2.1070643169593524,
+    "price": 28.769795344023436,
+    "total_value": 60.619809175615096,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent5",
+    "amount": 1.0,
+    "price": 30.0,
+    "total_value": 30.0,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "CareAgent2",
+    "buyer": "CareAgent3",
+    "amount": 1.0,
+    "price": 30.493409800098743,
+    "total_value": 30.493409800098743,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "CareAgent2",
+    "buyer": "CareAgent5",
+    "amount": 6.785119043706811,
+    "price": 30.120930094915263,
+    "total_value": 204.37409640117116,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent3",
+    "amount": 1.0190691237673661,
+    "price": 28.769795344023436,
+    "total_value": 29.318410132200412,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "CareAgent2",
+    "buyer": "CareAgent3",
+    "amount": 0.10244628570843872,
+    "price": 28.769795344023436,
+    "total_value": 2.947358673587135,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "CareAgent2",
+    "buyer": "CareAgent5",
+    "amount": 8.378952518925075,
+    "price": 28.769795344023436,
+    "total_value": 241.06074916676408,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "CareAgent4",
+    "buyer": "CareAgent5",
+    "amount": 2.1070643169593524,
+    "price": 28.769795344023436,
+    "total_value": 60.619809175615096,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent3",
+    "amount": 4.675012710378724,
+    "price": 28.907679180607087,
+    "total_value": 135.14376759688852,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "CareAgent5",
+    "buyer": "CareAgent1",
+    "amount": 1.917719781011641,
+    "price": 28.907679180607087,
+    "total_value": 55.4368281877886,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "CareAgent2",
+    "buyer": "CareAgent3",
+    "amount": 4.675012710378724,
+    "price": 28.907679180607087,
+    "total_value": 135.14376759688852,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent3",
+    "amount": 3.740010168302979,
+    "price": 30.0,
+    "total_value": 112.20030504908937,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "CareAgent4",
+    "buyer": "CareAgent3",
+    "amount": 1.0,
+    "price": 30.0,
+    "total_value": 30.0,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent3",
+    "amount": 4.675012710378724,
+    "price": 28.907679180607087,
+    "total_value": 135.14376759688852,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "CareAgent2",
+    "buyer": "CareAgent3",
+    "amount": 4.675012710378724,
+    "price": 28.907679180607087,
+    "total_value": 135.14376759688852,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent3",
+    "amount": 3.740010168302979,
+    "price": 30.0,
+    "total_value": 112.20030504908937,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "CareAgent4",
+    "buyer": "CareAgent3",
+    "amount": 1.0,
+    "price": 30.0,
+    "total_value": 30.0,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent3",
+    "amount": 4.675012710378724,
+    "price": 28.907679180607087,
+    "total_value": 135.14376759688852,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "CareAgent5",
+    "buyer": "CareAgent1",
+    "amount": 8.906977524646976,
+    "price": 28.99221949858042,
+    "total_value": 258.2330474634876,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "CareAgent5",
+    "buyer": "CareAgent1",
+    "amount": 4.248412050311117,
+    "price": 30.0,
+    "total_value": 127.45236150933351,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "CareAgent2",
+    "buyer": "CareAgent3",
+    "amount": 20.0,
+    "price": 28.99221949858042,
+    "total_value": 579.8443899716084,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "CareAgent4",
+    "buyer": "CareAgent3",
+    "amount": 1.0,
+    "price": 30.0,
+    "total_value": 30.0,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent3",
+    "amount": 20.0,
+    "price": 28.99221949858042,
+    "total_value": 579.8443899716084,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "CareAgent2",
+    "buyer": "CareAgent3",
+    "amount": 20.0,
+    "price": 28.99221949858042,
+    "total_value": 579.8443899716084,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "CareAgent5",
+    "buyer": "CareAgent1",
+    "amount": 8.906977524646976,
+    "price": 28.99221949858042,
+    "total_value": 258.2330474634876,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "CareAgent4",
+    "buyer": "CareAgent3",
+    "amount": 1.0,
+    "price": 30.0,
+    "total_value": 30.0,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "CareAgent5",
+    "buyer": "CareAgent1",
+    "amount": 4.248412050311117,
+    "price": 30.0,
+    "total_value": 127.45236150933351,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "CareAgent2",
+    "buyer": "CareAgent1",
+    "amount": 5.310515062888896,
+    "price": 28.99221949858042,
+    "total_value": 153.96361835379247,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "CareAgent2",
+    "buyer": "CareAgent3",
+    "amount": 6.610149929323356,
+    "price": 28.99221949858042,
+    "total_value": 191.64291766946857,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "CareAgent5",
+    "buyer": "CareAgent3",
+    "amount": 8.389850070676644,
+    "price": 28.99221949858042,
+    "total_value": 243.2403748092377,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent3",
+    "amount": 13.008100197892503,
+    "price": 29.036943286780502,
+    "total_value": 377.7154677149628,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "CareAgent2",
+    "buyer": "CareAgent3",
+    "amount": 13.008100197892503,
+    "price": 29.036943286780502,
+    "total_value": 377.7154677149628,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "CareAgent4",
+    "buyer": "CareAgent2",
+    "amount": 2.225618203846878,
+    "price": 29.036943286780502,
+    "total_value": 64.62514956312808,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "CareAgent5",
+    "buyer": "CareAgent2",
+    "amount": 2.77409366531262,
+    "price": 29.036943286780502,
+    "total_value": 80.55120043189959,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent3",
+    "amount": 5.674891903607329,
+    "price": 30.0,
+    "total_value": 170.24675710821987,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent3",
+    "amount": 13.008100197892503,
+    "price": 29.036943286780502,
+    "total_value": 377.7154677149628,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "CareAgent2",
+    "buyer": "CareAgent3",
+    "amount": 13.008100197892503,
+    "price": 29.036943286780502,
+    "total_value": 377.7154677149628,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "CareAgent4",
+    "buyer": "CareAgent1",
+    "amount": 2.225618203846878,
+    "price": 29.036943286780502,
+    "total_value": 64.62514956312808,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "CareAgent4",
+    "buyer": "CareAgent2",
+    "amount": 2.225618203846878,
+    "price": 29.036943286780502,
+    "total_value": 64.62514956312808,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "CareAgent5",
+    "buyer": "CareAgent1",
+    "amount": 2.77409366531262,
+    "price": 29.036943286780502,
+    "total_value": 80.55120043189959,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "CareAgent5",
+    "buyer": "CareAgent2",
+    "amount": 2.77409366531262,
+    "price": 29.036943286780502,
+    "total_value": 80.55120043189959,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent3",
+    "amount": 7.093614879509161,
+    "price": 29.036943286780502,
+    "total_value": 205.97689295456982,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "CareAgent2",
+    "buyer": "CareAgent3",
+    "amount": 5.914485318383342,
+    "price": 29.036943286780502,
+    "total_value": 171.73857476039302,
+    "type": "auction",
+    "timestamp": 0
+  }
+]

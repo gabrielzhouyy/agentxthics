@@ -1,0 +1,4178 @@
+[
+  {
+    "round": 1,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent4",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent4",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent4",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent4",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 0.0,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 0.0,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 0.0,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 0.0,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 0.0,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 0.0,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 0.0,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 0.0,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent4",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 0.0,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent4",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 0.0,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent4",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 0.0,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent4",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 0.0,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 18.31403565894782, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 18.31403565894782,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 18.31403565894782, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 18.31403565894782,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 18.31403565894782, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 18.31403565894782,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 18.31403565894782, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 18.31403565894782,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.262397906035517, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.262397906035517,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.262397906035517, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.262397906035517,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent4",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.262397906035517, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.262397906035517,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent4",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.262397906035517, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.262397906035517,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent4",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent4",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.262397906035517, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.262397906035517,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.262397906035517, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.262397906035517,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.262397906035517, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.262397906035517,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.262397906035517, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.262397906035517,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent4",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.262397906035517, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.262397906035517,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent4",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.262397906035517, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.262397906035517,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent4",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.262397906035517, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.262397906035517,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent4",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.262397906035517, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.262397906035517,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.262397906035517, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.262397906035517,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.262397906035517, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.262397906035517,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent4",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.68140579006444, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.68140579006444,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent4",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.68140579006444, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.68140579006444,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent4",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.68140579006444, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.68140579006444,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent4",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.68140579006444, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.68140579006444,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.68140579006444, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.68140579006444,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.68140579006444, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.68140579006444,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.68140579006444, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.68140579006444,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.68140579006444, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.68140579006444,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.769795344023436,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.769795344023436,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent4",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.769795344023436,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent4",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.769795344023436,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent4",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.769795344023436,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent4",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.769795344023436,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.769795344023436,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.769795344023436,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.769795344023436,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.769795344023436,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.769795344023436,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.769795344023436,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.769795344023436,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.769795344023436,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.769795344023436,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.769795344023436,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.769795344023436,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.769795344023436,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.769795344023436,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.769795344023436,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.907679180607087,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.907679180607087,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.907679180607087,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.907679180607087,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.907679180607087,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.907679180607087,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.907679180607087,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.907679180607087,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.907679180607087,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.907679180607087,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.907679180607087,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.907679180607087,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.907679180607087,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.907679180607087,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.907679180607087,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.907679180607087,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.907679180607087,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.907679180607087,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.907679180607087,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.907679180607087,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.99221949858042,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.99221949858042,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.99221949858042,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.99221949858042,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.99221949858042,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.99221949858042,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.99221949858042,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.99221949858042,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.99221949858042,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.99221949858042,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.99221949858042,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.99221949858042,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.99221949858042,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.99221949858042,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.99221949858042,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.99221949858042,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.99221949858042,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.99221949858042,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.99221949858042,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 28.99221949858042,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 29.036943286780502,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 29.036943286780502,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "Default action due to error",
+    "situation_analysis": "Action: conserve",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"action\": \"conserve\",\n  \"explanation\": \"Default action due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 29.036943286780502,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 29.036943286780502,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 29.036943286780502,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 29.036943286780502,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent4",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 29.036943286780502,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent4",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 29.036943286780502,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent4",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 29.036943286780502,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent4",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 29.036943286780502,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 29.036943286780502,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 29.036943286780502,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 29.036943286780502,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_proposal",
+    "full_reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 29.036943286780502,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 29.036943286780502,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 29.036943286780502,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 29.036943286780502,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 29.036943286780502,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 29.036943286780502,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent1",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 29.036943286780502,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 29.036943286780502,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 29.036943286780502,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 29.036943286780502,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 29.036943286780502,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 29.036943286780502,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent2",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 29.036943286780502,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 29.036943286780502,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent3",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 29.036943286780502,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 29.036943286780502,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent5",
+    "type": "detailed_reasoning",
+    "decision_type": "contract_response",
+    "full_reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}",
+    "situation_analysis": "",
+    "strategic_considerations": "",
+    "decision_factors": "",
+    "json_decision": "{\n  \"amount\": 20,\n  \"price\": 29.036943286780502,\n  \"message\": \"Default offer due to error\"\n}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent4",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent4",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent4",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent4",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent2",
+    "type": "implicit_reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent2",
+    "type": "implicit_reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent3",
+    "type": "implicit_reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent3",
+    "type": "implicit_reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent4",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent4",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent4",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent4",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent4",
+    "type": "implicit_reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 18.31403565894782, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 18.31403565894782, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 18.31403565894782, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 18.31403565894782, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 28.262397906035517, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 28.262397906035517, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent4",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 28.262397906035517, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent4",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 28.262397906035517, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent4",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent4",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.262397906035517, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.262397906035517, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent1",
+    "type": "implicit_reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.262397906035517, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.262397906035517, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent1",
+    "type": "implicit_reasoning",
+    "decision_type": "deception",
+    "reasoning": "Accepted contract for 3.441139790183456 units but only has 1.4059771421870124 available"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent1",
+    "type": "implicit_reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent4",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.262397906035517, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent4",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.262397906035517, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent4",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.262397906035517, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent4",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.262397906035517, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent4",
+    "type": "implicit_reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.262397906035517, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.262397906035517, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent5",
+    "type": "implicit_reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent4",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 28.68140579006444, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent4",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 28.68140579006444, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent4",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 28.68140579006444, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent4",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 28.68140579006444, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.68140579006444, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.68140579006444, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent1",
+    "type": "implicit_reasoning",
+    "decision_type": "deception",
+    "reasoning": "Accepted contract for 2.2840985347719567 units but only has -2.2842307685537833 available"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent1",
+    "type": "implicit_reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.68140579006444, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.68140579006444, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent2",
+    "type": "implicit_reasoning",
+    "decision_type": "deception",
+    "reasoning": "Accepted contract for 2.2840985347719567 units but only has -51.38259025346537 available"
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent2",
+    "type": "implicit_reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent4",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent4",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent4",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent4",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent1",
+    "type": "implicit_reasoning",
+    "decision_type": "deception",
+    "reasoning": "Accepted contract for 1.1215154094758049 units but only has 1.0190691237673661 available"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent1",
+    "type": "implicit_reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent2",
+    "type": "implicit_reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent3",
+    "type": "implicit_reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent3",
+    "type": "implicit_reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent5",
+    "type": "implicit_reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.769795344023436, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent1",
+    "type": "implicit_reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent1",
+    "type": "implicit_reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent2",
+    "type": "implicit_reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent3",
+    "type": "implicit_reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.907679180607087, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent3",
+    "type": "implicit_reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent1",
+    "type": "implicit_reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent1",
+    "type": "implicit_reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent2",
+    "type": "implicit_reasoning",
+    "decision_type": "deception",
+    "reasoning": "Accepted contract for 20.0 units but only has 11.920664992212252 available"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent2",
+    "type": "implicit_reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 28.99221949858042, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent3",
+    "type": "implicit_reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent4",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent4",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent4",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent4",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_proposal",
+    "reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent1",
+    "type": "implicit_reasoning",
+    "decision_type": "deception",
+    "reasoning": "Accepted contract for 13.008100197892503 units but only has 7.093614879509161 available"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent1",
+    "type": "implicit_reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent1",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent2",
+    "type": "implicit_reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent2",
+    "type": "implicit_reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent2",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent2",
+    "type": "implicit_reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent3",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent3",
+    "type": "implicit_reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent5",
+    "type": "reasoning",
+    "decision_type": "contract_response",
+    "reasoning": "{\"amount\": 20, \"price\": 29.036943286780502, \"message\": \"Default offer due to error\"}"
+  }
+]

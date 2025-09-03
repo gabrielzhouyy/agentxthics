@@ -1,0 +1,149 @@
+[
+  {
+    "round": 1,
+    "agent": "CareAgent2",
+    "amount": 0.011859968487158312,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent3",
+    "amount": 19.121949390892894,
+    "impact": "medium",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "agent": "CareAgent4",
+    "amount": 1.7981489266211241,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent1",
+    "amount": 10.449022058717148,
+    "impact": "medium",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent2",
+    "amount": 41.72339536975193,
+    "impact": "high",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent3",
+    "amount": 4.1059106875864515,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent4",
+    "amount": 0.16919129064227434,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "agent": "CareAgent5",
+    "amount": 21.298196021909646,
+    "impact": "high",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent4",
+    "amount": 3.441139790183456,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "agent": "CareAgent5",
+    "amount": 37.48880075953963,
+    "impact": "high",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent1",
+    "amount": 2.2842307685537833,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent2",
+    "amount": 51.38259025346537,
+    "impact": "high",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent3",
+    "amount": 0.833026234557309,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent4",
+    "amount": 2.2840985347719567,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "agent": "CareAgent5",
+    "amount": 4.519614202667938,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent3",
+    "amount": 1.1215154094758049,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "agent": "CareAgent5",
+    "amount": 11.452477528378722,
+    "impact": "medium",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "agent": "CareAgent3",
+    "amount": 4.675012710378724,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent1",
+    "amount": 5.310515062888896,
+    "impact": "medium",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "agent": "CareAgent3",
+    "amount": 25.5958042192441,
+    "impact": "high",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "agent": "CareAgent3",
+    "amount": 13.008100197892503,
+    "impact": "medium",
+    "timestamp": 0
+  }
+]

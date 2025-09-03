@@ -1,0 +1,279 @@
+{
+  "summary": {
+    "num_rounds": 8,
+    "num_agents": 5,
+    "total_trades": 779.3240373905593,
+    "average_price": 27.996475000175828,
+    "total_shortages": 23,
+    "agent_profits": {
+      "JusticeAgent1": {
+        "profit": 360.27251227981367,
+        "generation": 100,
+        "storage": 50,
+        "personality": "adaptive"
+      },
+      "JusticeAgent2": {
+        "profit": 3441.4766779012916,
+        "generation": 120,
+        "storage": 40,
+        "personality": "adaptive"
+      },
+      "JusticeAgent3": {
+        "profit": 823.6971150782267,
+        "generation": 90,
+        "storage": 60,
+        "personality": "adaptive"
+      },
+      "JusticeAgent4": {
+        "profit": 699.7597649013542,
+        "generation": 80,
+        "storage": 70,
+        "personality": "adaptive"
+      },
+      "JusticeAgent5": {
+        "profit": 2135.6011009694157,
+        "generation": 110,
+        "storage": 45,
+        "personality": "adaptive"
+      }
+    },
+    "collaboration_count": 24,
+    "deception_count": 3,
+    "communication_count": 110,
+    "contract_count": 34
+  },
+  "hypotheses": {
+    "communication_impact": {
+      "decisions_following_messages_percent": 94.44444444444444,
+      "total_decisions": 72,
+      "decisions_with_prior_message": 68,
+      "conclusion": "Communication appears to impact decision making"
+    },
+    "relationship_formation": {
+      "strong_relationships": 9,
+      "agents_with_preferences": 5,
+      "top_relationships": [
+        [
+          [
+            "JusticeAgent1",
+            "JusticeAgent4"
+          ],
+          28
+        ],
+        [
+          [
+            "JusticeAgent1",
+            "JusticeAgent3"
+          ],
+          20
+        ],
+        [
+          [
+            "JusticeAgent1",
+            "JusticeAgent5"
+          ],
+          16
+        ]
+      ],
+      "conclusion": "Agents form consistent trading relationships"
+    },
+    "trust_collaboration": {
+      "high_trust_pairs": 9,
+      "top_collaborators": [
+        [
+          [
+            "JusticeAgent3",
+            "JusticeAgent5"
+          ],
+          1.0
+        ],
+        [
+          [
+            "JusticeAgent1",
+            "JusticeAgent5"
+          ],
+          1.0
+        ],
+        [
+          [
+            "JusticeAgent1",
+            "JusticeAgent4"
+          ],
+          1.0
+        ]
+      ],
+      "increasing_collaboration_trend": false,
+      "acceptance_rates_by_round": [
+        [
+          1,
+          1.0
+        ],
+        [
+          2,
+          0.3333333333333333
+        ],
+        [
+          3,
+          1.0
+        ],
+        [
+          4,
+          0.6666666666666666
+        ],
+        [
+          5,
+          0.5
+        ],
+        [
+          6,
+          0.6666666666666666
+        ],
+        [
+          7,
+          0.6666666666666666
+        ],
+        [
+          8,
+          1.0
+        ]
+      ],
+      "conclusion": "Limited evidence of trust-based collaboration"
+    },
+    "deception": {
+      "explicit_deceptions": 3,
+      "contract_failures": 3,
+      "message_inconsistencies": 0,
+      "total_deceptive_activities": 6,
+      "examples": [
+        {
+          "round": 6,
+          "seller": "JusticeAgent3",
+          "buyer": "JusticeAgent1",
+          "amount": 2.093305399808429,
+          "shortage": 29.969993635634495
+        },
+        {
+          "round": 7,
+          "seller": "JusticeAgent1",
+          "buyer": "JusticeAgent4",
+          "amount": 2.029420751369841,
+          "shortage": 5.411561988840759
+        },
+        {
+          "round": 8,
+          "seller": "JusticeAgent3",
+          "buyer": "JusticeAgent1",
+          "amount": 3.5124552632056805,
+          "shortage": 12.832358274488527
+        }
+      ],
+      "conclusion": "Evidence supports use of deception for profit"
+    },
+    "profit_vs_stability": {
+      "average_price_volatility": 0.08213328492017513,
+      "blackout_frequency": 2.5555555555555554,
+      "profit_in_volatile_periods": 15.034899413605904,
+      "profit_in_stable_periods": 243.68193923313476,
+      "profit_volatility_ratio": 0.06169886640315085,
+      "high_volatility_rounds": [
+        1,
+        2
+      ],
+      "conclusion": "Agents prioritize profit over market stability"
+    },
+    "emergent_behavior": {
+      "consistent_trading_patterns": 6,
+      "coordinated_messaging": 7,
+      "agents_in_emergent_behaviors": 5,
+      "notable_patterns": [
+        {
+          "pair": [
+            "JusticeAgent5",
+            "JusticeAgent1"
+          ],
+          "interactions": 4,
+          "rounds": [
+            1,
+            2,
+            4,
+            6
+          ]
+        },
+        {
+          "pair": [
+            "JusticeAgent1",
+            "JusticeAgent4"
+          ],
+          "interactions": 5,
+          "rounds": [
+            3,
+            5,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "pair": [
+            "JusticeAgent3",
+            "JusticeAgent1"
+          ],
+          "interactions": 4,
+          "rounds": [
+            4,
+            6,
+            7,
+            8
+          ]
+        }
+      ],
+      "notable_coordination": [
+        {
+          "round": 1,
+          "theme": "price signaling",
+          "count": 3,
+          "agents": [
+            "JusticeAgent1",
+            "JusticeAgent3",
+            "JusticeAgent3"
+          ]
+        },
+        {
+          "round": 2,
+          "theme": "price signaling",
+          "count": 3,
+          "agents": [
+            "JusticeAgent1",
+            "JusticeAgent3",
+            "JusticeAgent4"
+          ]
+        },
+        {
+          "round": 4,
+          "theme": "price signaling",
+          "count": 3,
+          "agents": [
+            "JusticeAgent1",
+            "JusticeAgent1",
+            "JusticeAgent1"
+          ]
+        }
+      ],
+      "conclusion": "Evidence of emergent behavior detected"
+    },
+    "decision_quality": {
+      "total_decisions": 34,
+      "illogical_decisions_count": 0,
+      "illogical_decisions_percent": 0.0,
+      "examples": [],
+      "conclusion": "Agents consistently make logical decisions"
+    },
+    "numerical_accuracy": {
+      "numerical_errors_count": 0,
+      "total_numerical_operations": 74,
+      "error_rate_percent": 0.0,
+      "examples": [],
+      "conclusion": "Agents handle numerical calculations accurately"
+    }
+  }
+}

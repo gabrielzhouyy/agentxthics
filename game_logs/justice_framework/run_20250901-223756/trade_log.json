@@ -1,0 +1,992 @@
+[
+  {
+    "round": 1,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent1",
+    "amount": 1.0,
+    "price": 30.0,
+    "total_value": 30.0,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent3",
+    "amount": 4.9157201531788814,
+    "price": 30.0,
+    "total_value": 147.47160459536644,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent4",
+    "amount": 5.450888796628533,
+    "price": 30.0,
+    "total_value": 163.526663898856,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent4",
+    "amount": 5.450888796628533,
+    "price": 30.0,
+    "total_value": 163.526663898856,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent3",
+    "amount": 4.9157201531788814,
+    "price": 30.0,
+    "total_value": 147.47160459536644,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent4",
+    "amount": 5.450888796628533,
+    "price": 30.0,
+    "total_value": 163.526663898856,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent4",
+    "amount": 5.450888796628533,
+    "price": 30.0,
+    "total_value": 163.526663898856,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent3",
+    "amount": 6.144650191473602,
+    "price": 0.0,
+    "total_value": 0.0,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent4",
+    "amount": 6.813610995785666,
+    "price": 0.0,
+    "total_value": 0.0,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "seller": "JusticeAgent4",
+    "buyer": "JusticeAgent1",
+    "amount": 1.0,
+    "price": 30.0,
+    "total_value": 30.0,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent2",
+    "amount": 8.0,
+    "price": 24.5,
+    "total_value": 196.0,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent5",
+    "amount": 1.0,
+    "price": 30.0,
+    "total_value": 30.0,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "seller": "JusticeAgent4",
+    "buyer": "JusticeAgent5",
+    "amount": 1.8010232002293038,
+    "price": 30.0,
+    "total_value": 54.03069600687912,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent5",
+    "amount": 6.506531426664981,
+    "price": 30.0,
+    "total_value": 195.19594279994945,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent2",
+    "amount": 8.0,
+    "price": 24.5,
+    "total_value": 196.0,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "seller": "JusticeAgent4",
+    "buyer": "JusticeAgent2",
+    "amount": 2.25,
+    "price": 22.75,
+    "total_value": 51.1875,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent5",
+    "amount": 1.0,
+    "price": 30.0,
+    "total_value": 30.0,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "seller": "JusticeAgent4",
+    "buyer": "JusticeAgent5",
+    "amount": 1.8010232002293038,
+    "price": 30.0,
+    "total_value": 54.03069600687912,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent1",
+    "amount": 1.1127827205206557,
+    "price": 21.473567278926396,
+    "total_value": 23.89541461592705,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent5",
+    "amount": 7.02038156281057,
+    "price": 21.473567278926396,
+    "total_value": 150.7526358127472,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "seller": "JusticeAgent4",
+    "buyer": "JusticeAgent5",
+    "amount": 2.2512790002866296,
+    "price": 21.473567278926396,
+    "total_value": 48.342991076289096,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent3",
+    "amount": 7.4786828617709915,
+    "price": 29.5,
+    "total_value": 220.62114442224424,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent4",
+    "amount": 1.583204038700373,
+    "price": 29.5,
+    "total_value": 46.704519141661,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent2",
+    "amount": 12.35,
+    "price": 29.75,
+    "total_value": 367.41249999999997,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent3",
+    "amount": 5.982946289416794,
+    "price": 30.0,
+    "total_value": 179.48838868250382,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent3",
+    "amount": 7.4786828617709915,
+    "price": 29.5,
+    "total_value": 220.62114442224424,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent4",
+    "amount": 1.583204038700373,
+    "price": 29.5,
+    "total_value": 46.704519141661,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent2",
+    "amount": 12.35,
+    "price": 29.75,
+    "total_value": 367.41249999999997,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent4",
+    "amount": 1.2665632309602985,
+    "price": 30.0,
+    "total_value": 37.99689692880896,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "JusticeAgent1",
+    "buyer": "JusticeAgent3",
+    "amount": 7.4786828617709915,
+    "price": 27.407100030223134,
+    "total_value": 204.969009286873,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "JusticeAgent1",
+    "buyer": "JusticeAgent4",
+    "amount": 1.583204038700373,
+    "price": 27.407100030223134,
+    "total_value": 43.39103145691438,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent1",
+    "amount": 2.7313652755539466,
+    "price": 30.0,
+    "total_value": 81.9409582666184,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent2",
+    "amount": 16.82729688951769,
+    "price": 30.5,
+    "total_value": 513.2325551302896,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent2",
+    "amount": 11.516965065449455,
+    "price": 30.54,
+    "total_value": 351.7281130988263,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent2",
+    "amount": 7.156208513652155,
+    "price": 30.0,
+    "total_value": 214.68625540956464,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent4",
+    "amount": 5.923799491033003,
+    "price": 30.0,
+    "total_value": 177.7139847309901,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent4",
+    "amount": 5.923799491033003,
+    "price": 30.0,
+    "total_value": 177.7139847309901,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent2",
+    "amount": 16.82729688951769,
+    "price": 30.5,
+    "total_value": 513.2325551302896,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent2",
+    "amount": 11.516965065449455,
+    "price": 30.54,
+    "total_value": 351.7281130988263,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent1",
+    "amount": 2.7313652755539466,
+    "price": 30.0,
+    "total_value": 81.9409582666184,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent4",
+    "amount": 5.923799491033003,
+    "price": 30.0,
+    "total_value": 177.7139847309901,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent2",
+    "amount": 7.156208513652155,
+    "price": 30.0,
+    "total_value": 214.68625540956464,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent4",
+    "amount": 5.923799491033003,
+    "price": 30.0,
+    "total_value": 177.7139847309901,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent1",
+    "amount": 3.414206594442433,
+    "price": 28.83824077907302,
+    "total_value": 98.45971184002978,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent2",
+    "amount": 8.945260642065193,
+    "price": 28.83824077907302,
+    "total_value": 257.96558022744136,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent4",
+    "amount": 2.6405327634923736,
+    "price": 28.83824077907302,
+    "total_value": 76.14831961862414,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent4",
+    "amount": 4.76421660029888,
+    "price": 28.83824077907302,
+    "total_value": 137.39162544307578,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent1",
+    "amount": 2.9332600548063854,
+    "price": 30.0,
+    "total_value": 87.99780164419157,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent2",
+    "amount": 8.557256505939478,
+    "price": 31.567228691574545,
+    "total_value": 270.1288730954556,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent4",
+    "amount": 2.116900119668074,
+    "price": 31.5,
+    "total_value": 66.68235376954433,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent2",
+    "amount": 3.5,
+    "price": 31.5,
+    "total_value": 110.25,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent2",
+    "amount": 2.5981928392851614,
+    "price": 31.5,
+    "total_value": 81.84307443748258,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent4",
+    "amount": 1.6935200957344592,
+    "price": 30.0,
+    "total_value": 50.805602872033774,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent4",
+    "amount": 1.6935200957344592,
+    "price": 30.0,
+    "total_value": 50.805602872033774,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent2",
+    "amount": 2.5981928392851614,
+    "price": 31.5,
+    "total_value": 81.84307443748258,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent2",
+    "amount": 8.557256505939478,
+    "price": 31.567228691574545,
+    "total_value": 270.1288730954556,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent4",
+    "amount": 2.116900119668074,
+    "price": 31.5,
+    "total_value": 66.68235376954433,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent2",
+    "amount": 3.5,
+    "price": 31.5,
+    "total_value": 110.25,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent4",
+    "amount": 1.6935200957344592,
+    "price": 30.0,
+    "total_value": 50.805602872033774,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent4",
+    "amount": 1.6935200957344592,
+    "price": 30.0,
+    "total_value": 50.805602872033774,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent1",
+    "amount": 5.980430794117609,
+    "price": 29.516026085069324,
+    "total_value": 176.5185513191272,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent2",
+    "amount": 2.5768257118218685,
+    "price": 29.516026085069324,
+    "total_value": 76.0576549268116,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent2",
+    "amount": 0.021367127463292945,
+    "price": 29.516026085069324,
+    "total_value": 0.6306726915695557,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent4",
+    "amount": 2.116900119668074,
+    "price": 29.516026085069324,
+    "total_value": 62.48247915160924,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "JusticeAgent4",
+    "buyer": "JusticeAgent5",
+    "amount": 4.298283353244614,
+    "price": 30.218226140584783,
+    "total_value": 129.8864983846568,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent5",
+    "amount": 1.0,
+    "price": 30.301319168537116,
+    "total_value": 30.301319168537116,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent3",
+    "amount": 20.0,
+    "price": 31.5,
+    "total_value": 630.0,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "JusticeAgent4",
+    "buyer": "JusticeAgent5",
+    "amount": 4.298283353244614,
+    "price": 30.218226140584783,
+    "total_value": 129.8864983846568,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent5",
+    "amount": 1.0,
+    "price": 30.301319168537116,
+    "total_value": 30.301319168537116,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent1",
+    "amount": 1.0,
+    "price": 30.0,
+    "total_value": 30.0,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent1",
+    "amount": 1.4662800357387908,
+    "price": 29.835954998871255,
+    "total_value": 43.7478651620459,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent5",
+    "amount": 13.53371996426121,
+    "price": 29.835954998871255,
+    "total_value": 403.79145982102295,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "JusticeAgent4",
+    "buyer": "JusticeAgent5",
+    "amount": 1.4662800357387908,
+    "price": 29.835954998871255,
+    "total_value": 43.7478651620459,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "JusticeAgent1",
+    "buyer": "JusticeAgent3",
+    "amount": 2.0694548258490357,
+    "price": 31.970417320371844,
+    "total_value": 66.1613344080511,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent3",
+    "amount": 10.0,
+    "price": 32.5,
+    "total_value": 325.0,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent3",
+    "amount": 10.67244183627488,
+    "price": 30.39537884505079,
+    "total_value": 324.39291281534446,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "JusticeAgent1",
+    "buyer": "JusticeAgent3",
+    "amount": 1.6555638606792287,
+    "price": 30.25369846725483,
+    "total_value": 50.08692983427367,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent4",
+    "amount": 4.310535773494485,
+    "price": 30.205625946254987,
+    "total_value": 130.20243120212533,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "JusticeAgent1",
+    "buyer": "JusticeAgent3",
+    "amount": 2.0694548258490357,
+    "price": 31.970417320371844,
+    "total_value": 66.1613344080511,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent3",
+    "amount": 10.0,
+    "price": 32.5,
+    "total_value": 325.0,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent3",
+    "amount": 10.67244183627488,
+    "price": 30.39537884505079,
+    "total_value": 324.39291281534446,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent4",
+    "amount": 4.310535773494485,
+    "price": 30.205625946254987,
+    "total_value": 130.20243120212533,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "JusticeAgent1",
+    "buyer": "JusticeAgent3",
+    "amount": 1.6555638606792287,
+    "price": 30.25369846725483,
+    "total_value": 50.08692983427367,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "JusticeAgent1",
+    "buyer": "JusticeAgent3",
+    "amount": 2.0694548258490357,
+    "price": 29.970417320371844,
+    "total_value": 62.02242475635304,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent3",
+    "amount": 12.930545174150964,
+    "price": 29.970417320371844,
+    "total_value": 387.53383504922465,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent4",
+    "amount": 0.4100071211926348,
+    "price": 29.970417320371844,
+    "total_value": 12.288084526467541,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent1",
+    "amount": 1.0,
+    "price": 32.22497485641576,
+    "total_value": 32.22497485641576,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent1",
+    "amount": 1.0,
+    "price": 32.17960162192342,
+    "total_value": 32.17960162192342,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent3",
+    "amount": 18.018116090509054,
+    "price": 30.17246204223227,
+    "total_value": 543.6509238134189,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent3",
+    "amount": 13.856908253410538,
+    "price": 30.17246204223227,
+    "total_value": 418.0970382987245,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "JusticeAgent4",
+    "buyer": "JusticeAgent3",
+    "amount": 1.0,
+    "price": 32.0966550528537,
+    "total_value": 32.0966550528537,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent3",
+    "amount": 11.08552660272843,
+    "price": 30.862389597096826,
+    "total_value": 342.125840902386,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "JusticeAgent1",
+    "buyer": "JusticeAgent3",
+    "amount": 18.018116090509054,
+    "price": 30.17246204223227,
+    "total_value": 543.6509238134189,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent3",
+    "amount": 18.018116090509054,
+    "price": 30.17246204223227,
+    "total_value": 543.6509238134189,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "JusticeAgent4",
+    "buyer": "JusticeAgent3",
+    "amount": 1.0,
+    "price": 32.0966550528537,
+    "total_value": 32.0966550528537,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent3",
+    "amount": 11.08552660272843,
+    "price": 30.862389597096826,
+    "total_value": 342.125840902386,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent1",
+    "amount": 1.0,
+    "price": 32.22497485641576,
+    "total_value": 32.22497485641576,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent3",
+    "amount": 13.856908253410538,
+    "price": 30.17246204223227,
+    "total_value": 418.0970382987245,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent3",
+    "amount": 1.1430917465894623,
+    "price": 30.17246204223227,
+    "total_value": 34.48989233475954,
+    "type": "auction",
+    "timestamp": 0
+  }
+]

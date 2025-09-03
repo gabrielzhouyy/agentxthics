@@ -1,0 +1,371 @@
+[
+  {
+    "round": 1,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent4",
+    "amount": 1.0,
+    "price": 30.0,
+    "status": "accepted",
+    "message": "Strategic electricity contract during high demand period"
+  },
+  {
+    "round": 1,
+    "seller": "CareAgent5",
+    "buyer": "CareAgent2",
+    "amount": 1.0,
+    "price": 30.0,
+    "status": "accepted",
+    "message": "Strategic electricity contract during high demand period"
+  },
+  {
+    "round": 1,
+    "seller": "CareAgent5",
+    "buyer": "CareAgent4",
+    "amount": 1.4385191412968994,
+    "price": 30.0,
+    "status": "proposed",
+    "message": "Strategic electricity contract during high demand period"
+  },
+  {
+    "round": 1,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent3",
+    "amount": 1.0,
+    "price": 30.0,
+    "status": "accepted",
+    "message": "Strategic electricity contract during high demand period"
+  },
+  {
+    "round": 1,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent2",
+    "amount": 1.0,
+    "price": 30.0,
+    "status": "accepted",
+    "message": "Strategic electricity contract during high demand period"
+  },
+  {
+    "round": 1,
+    "seller": "CareAgent5",
+    "buyer": "CareAgent3",
+    "amount": 15.069214312858321,
+    "price": 30.0,
+    "status": "proposed",
+    "message": "Strategic electricity contract during high demand period"
+  },
+  {
+    "round": 2,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent3",
+    "amount": 4.1059106875864515,
+    "price": 18.31403565894782,
+    "status": "accepted",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 3,
+    "seller": "CareAgent3",
+    "buyer": "CareAgent1",
+    "amount": 10.321310134988579,
+    "price": 28.262397906035517,
+    "status": "accepted",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 3,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent4",
+    "amount": 3.441139790183456,
+    "price": 28.262397906035517,
+    "status": "accepted",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 3,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent4",
+    "amount": 1.12478171374961,
+    "price": 30.27738546310377,
+    "status": "accepted",
+    "message": "Strategic electricity contract during high demand period"
+  },
+  {
+    "round": 3,
+    "seller": "CareAgent3",
+    "buyer": "CareAgent5",
+    "amount": 8.257048107990864,
+    "price": 30.0,
+    "status": "accepted",
+    "message": "Strategic electricity contract during high demand period"
+  },
+  {
+    "round": 3,
+    "seller": "CareAgent2",
+    "buyer": "CareAgent4",
+    "amount": 2.752911832146765,
+    "price": 30.0,
+    "status": "accepted",
+    "message": "Strategic electricity contract during high demand period"
+  },
+  {
+    "round": 4,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent4",
+    "amount": 2.2840985347719567,
+    "price": 28.68140579006444,
+    "status": "accepted",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 4,
+    "seller": "CareAgent2",
+    "buyer": "CareAgent4",
+    "amount": 2.2840985347719567,
+    "price": 28.68140579006444,
+    "status": "accepted",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 5,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent3",
+    "amount": 1.1215154094758049,
+    "price": 28.769795344023436,
+    "status": "proposed",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 5,
+    "seller": "CareAgent4",
+    "buyer": "CareAgent1",
+    "amount": 2.1070643169593524,
+    "price": 28.769795344023436,
+    "status": "accepted",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 5,
+    "seller": "CareAgent4",
+    "buyer": "CareAgent2",
+    "amount": 2.1070643169593524,
+    "price": 28.769795344023436,
+    "status": "accepted",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 5,
+    "seller": "CareAgent4",
+    "buyer": "CareAgent3",
+    "amount": 1.0,
+    "price": 30.0,
+    "status": "proposed",
+    "message": "Strategic electricity contract during high demand period"
+  },
+  {
+    "round": 5,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent5",
+    "amount": 1.0,
+    "price": 30.0,
+    "status": "accepted",
+    "message": "Strategic electricity contract during high demand period"
+  },
+  {
+    "round": 5,
+    "seller": "CareAgent2",
+    "buyer": "CareAgent3",
+    "amount": 1.0,
+    "price": 30.493409800098743,
+    "status": "accepted",
+    "message": "Strategic electricity contract during high demand period"
+  },
+  {
+    "round": 5,
+    "seller": "CareAgent2",
+    "buyer": "CareAgent5",
+    "amount": 6.785119043706811,
+    "price": 30.120930094915263,
+    "status": "accepted",
+    "message": "Strategic electricity contract during high demand period"
+  },
+  {
+    "round": 6,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent3",
+    "amount": 4.675012710378724,
+    "price": 28.907679180607087,
+    "status": "accepted",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 6,
+    "seller": "CareAgent2",
+    "buyer": "CareAgent3",
+    "amount": 4.675012710378724,
+    "price": 28.907679180607087,
+    "status": "accepted",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 6,
+    "seller": "CareAgent5",
+    "buyer": "CareAgent1",
+    "amount": 1.917719781011641,
+    "price": 28.907679180607087,
+    "status": "proposed",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 6,
+    "seller": "CareAgent5",
+    "buyer": "CareAgent2",
+    "amount": 1.917719781011641,
+    "price": 28.907679180607087,
+    "status": "proposed",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 6,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent3",
+    "amount": 3.740010168302979,
+    "price": 30.0,
+    "status": "accepted",
+    "message": "Strategic electricity contract at standard market rates"
+  },
+  {
+    "round": 6,
+    "seller": "CareAgent4",
+    "buyer": "CareAgent3",
+    "amount": 1.0,
+    "price": 30.0,
+    "status": "accepted",
+    "message": "Strategic electricity contract at standard market rates"
+  },
+  {
+    "round": 7,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent3",
+    "amount": 20.0,
+    "price": 28.99221949858042,
+    "status": "accepted",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 7,
+    "seller": "CareAgent2",
+    "buyer": "CareAgent3",
+    "amount": 20.0,
+    "price": 28.99221949858042,
+    "status": "accepted",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 7,
+    "seller": "CareAgent5",
+    "buyer": "CareAgent1",
+    "amount": 8.906977524646976,
+    "price": 28.99221949858042,
+    "status": "accepted",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 7,
+    "seller": "CareAgent5",
+    "buyer": "CareAgent2",
+    "amount": 8.906977524646976,
+    "price": 28.99221949858042,
+    "status": "proposed",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 7,
+    "seller": "CareAgent4",
+    "buyer": "CareAgent3",
+    "amount": 1.0,
+    "price": 30.0,
+    "status": "accepted",
+    "message": "Strategic electricity contract during surplus period"
+  },
+  {
+    "round": 7,
+    "seller": "CareAgent5",
+    "buyer": "CareAgent1",
+    "amount": 4.248412050311117,
+    "price": 30.0,
+    "status": "accepted",
+    "message": "Strategic electricity contract during surplus period"
+  },
+  {
+    "round": 8,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent5",
+    "amount": 7.093614879509161,
+    "price": 29.036943286780502,
+    "status": "proposed",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 8,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent3",
+    "amount": 13.008100197892503,
+    "price": 29.036943286780502,
+    "status": "accepted",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 8,
+    "seller": "CareAgent2",
+    "buyer": "CareAgent3",
+    "amount": 13.008100197892503,
+    "price": 29.036943286780502,
+    "status": "accepted",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 8,
+    "seller": "CareAgent4",
+    "buyer": "CareAgent1",
+    "amount": 2.225618203846878,
+    "price": 29.036943286780502,
+    "status": "accepted",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 8,
+    "seller": "CareAgent4",
+    "buyer": "CareAgent2",
+    "amount": 2.225618203846878,
+    "price": 29.036943286780502,
+    "status": "accepted",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 8,
+    "seller": "CareAgent5",
+    "buyer": "CareAgent1",
+    "amount": 2.77409366531262,
+    "price": 29.036943286780502,
+    "status": "accepted",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 8,
+    "seller": "CareAgent5",
+    "buyer": "CareAgent2",
+    "amount": 2.77409366531262,
+    "price": 29.036943286780502,
+    "status": "accepted",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 8,
+    "seller": "CareAgent1",
+    "buyer": "CareAgent3",
+    "amount": 5.674891903607329,
+    "price": 30.0,
+    "status": "proposed",
+    "message": "Strategic electricity contract at standard market rates"
+  }
+]

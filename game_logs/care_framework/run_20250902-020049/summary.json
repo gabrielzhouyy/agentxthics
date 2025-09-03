@@ -1,0 +1,43 @@
+{
+  "num_rounds": 8,
+  "num_agents": 5,
+  "total_trades": 1066.0777909108322,
+  "average_price": 27.502741123959325,
+  "total_shortages": 21,
+  "agent_profits": {
+    "CareAgent1": {
+      "profit": 2331.8286535652956,
+      "generation": 100,
+      "storage": 50,
+      "personality": "adaptive"
+    },
+    "CareAgent2": {
+      "profit": 2406.206023400975,
+      "generation": 120,
+      "storage": 40,
+      "personality": "adaptive"
+    },
+    "CareAgent3": {
+      "profit": 2075.37952358316,
+      "generation": 90,
+      "storage": 60,
+      "personality": "adaptive"
+    },
+    "CareAgent4": {
+      "profit": 440.55915333213613,
+      "generation": 80,
+      "storage": 70,
+      "personality": "adaptive"
+    },
+    "CareAgent5": {
+      "profit": 1872.8277987023685,
+      "generation": 110,
+      "storage": 45,
+      "personality": "adaptive"
+    }
+  },
+  "collaboration_count": 30,
+  "deception_count": 6,
+  "communication_count": 129,
+  "contract_count": 41
+}

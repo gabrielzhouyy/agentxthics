@@ -1,0 +1,776 @@
+[
+  {
+    "round": 1,
+    "sender": "CareAgent1",
+    "receiver": "CareAgent4",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 1 units at $30.00 per unit"
+  },
+  {
+    "round": 1,
+    "sender": "CareAgent5",
+    "receiver": "CareAgent2",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 1 units at $30.00 per unit"
+  },
+  {
+    "round": 1,
+    "sender": "CareAgent5",
+    "receiver": "CareAgent4",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 1 units at $30.00 per unit"
+  },
+  {
+    "round": 1,
+    "sender": "CareAgent1",
+    "receiver": "CareAgent3",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 1 units at $30.00 per unit"
+  },
+  {
+    "round": 1,
+    "sender": "CareAgent1",
+    "receiver": "CareAgent2",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 1 units at $30.00 per unit"
+  },
+  {
+    "round": 1,
+    "sender": "CareAgent5",
+    "receiver": "CareAgent3",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 15 units at $30.00 per unit"
+  },
+  {
+    "round": 1,
+    "sender": "CareAgent2",
+    "receiver": "CareAgent5",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 1,
+    "sender": "CareAgent2",
+    "receiver": "CareAgent1",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 1,
+    "sender": "CareAgent3",
+    "receiver": "CareAgent1",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 1,
+    "sender": "CareAgent3",
+    "receiver": "CareAgent5",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 1,
+    "sender": "CareAgent4",
+    "receiver": "CareAgent1",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 1,
+    "sender": "CareAgent4",
+    "receiver": "CareAgent5",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 1,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent1 to CareAgent4 for 1.00 units at $30.00"
+  },
+  {
+    "round": 1,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent5 to CareAgent2 for 1.00 units at $30.00"
+  },
+  {
+    "round": 1,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent1 to CareAgent3 for 1.00 units at $30.00"
+  },
+  {
+    "round": 1,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent1 to CareAgent2 for 1.00 units at $30.00"
+  },
+  {
+    "round": 1,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: CareAgent5 sold 15.00 units to CareAgent3 at $0.00"
+  },
+  {
+    "round": 2,
+    "sender": "CareAgent3",
+    "receiver": "CareAgent1",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 2,
+    "sender": "CareAgent1",
+    "receiver": "CareAgent3",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 2,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent1 to CareAgent3 for 4.11 units at $18.31"
+  },
+  {
+    "round": 3,
+    "sender": "CareAgent3",
+    "receiver": "CareAgent1",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 3,
+    "sender": "CareAgent4",
+    "receiver": "CareAgent1",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 3,
+    "sender": "CareAgent1",
+    "receiver": "CareAgent4",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 1 units at $30.28 per unit"
+  },
+  {
+    "round": 3,
+    "sender": "CareAgent3",
+    "receiver": "CareAgent5",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 8 units at $30.00 per unit"
+  },
+  {
+    "round": 3,
+    "sender": "CareAgent2",
+    "receiver": "CareAgent4",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 3 units at $30.00 per unit"
+  },
+  {
+    "round": 3,
+    "sender": "CareAgent1",
+    "receiver": "CareAgent3",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 3,
+    "sender": "CareAgent1",
+    "receiver": "CareAgent4",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 3,
+    "sender": "CareAgent4",
+    "receiver": "CareAgent1",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 3,
+    "sender": "CareAgent4",
+    "receiver": "CareAgent2",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 3,
+    "sender": "CareAgent5",
+    "receiver": "CareAgent3",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 3,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent3 to CareAgent1 for 10.32 units at $28.26"
+  },
+  {
+    "round": 3,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent1 to CareAgent4 for 3.44 units at $28.26"
+  },
+  {
+    "round": 3,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent1 to CareAgent4 for 1.12 units at $30.28"
+  },
+  {
+    "round": 3,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent3 to CareAgent5 for 8.26 units at $30.00"
+  },
+  {
+    "round": 3,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent2 to CareAgent4 for 2.75 units at $30.00"
+  },
+  {
+    "round": 3,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: CareAgent1 sold 1.41 units to CareAgent4 at $28.26"
+  },
+  {
+    "round": 3,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: CareAgent2 sold 2.04 units to CareAgent4 at $28.26"
+  },
+  {
+    "round": 3,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: CareAgent2 sold 7.59 units to CareAgent5 at $28.26"
+  },
+  {
+    "round": 3,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: CareAgent3 sold 7.41 units to CareAgent5 at $28.26"
+  },
+  {
+    "round": 4,
+    "sender": "CareAgent4",
+    "receiver": "CareAgent1",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 4,
+    "sender": "CareAgent4",
+    "receiver": "CareAgent2",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 4,
+    "sender": "CareAgent1",
+    "receiver": "CareAgent4",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 4,
+    "sender": "CareAgent2",
+    "receiver": "CareAgent4",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 4,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent1 to CareAgent4 for 2.28 units at $28.68"
+  },
+  {
+    "round": 4,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent2 to CareAgent4 for 2.28 units at $28.68"
+  },
+  {
+    "round": 5,
+    "sender": "CareAgent3",
+    "receiver": "CareAgent1",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 5,
+    "sender": "CareAgent4",
+    "receiver": "CareAgent1",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 5,
+    "sender": "CareAgent4",
+    "receiver": "CareAgent2",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 5,
+    "sender": "CareAgent4",
+    "receiver": "CareAgent3",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 1 units at $30.00 per unit"
+  },
+  {
+    "round": 5,
+    "sender": "CareAgent1",
+    "receiver": "CareAgent5",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 1 units at $30.00 per unit"
+  },
+  {
+    "round": 5,
+    "sender": "CareAgent2",
+    "receiver": "CareAgent3",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 1 units at $30.49 per unit"
+  },
+  {
+    "round": 5,
+    "sender": "CareAgent2",
+    "receiver": "CareAgent5",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 7 units at $30.12 per unit"
+  },
+  {
+    "round": 5,
+    "sender": "CareAgent1",
+    "receiver": "CareAgent3",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 5,
+    "sender": "CareAgent1",
+    "receiver": "CareAgent4",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 5,
+    "sender": "CareAgent2",
+    "receiver": "CareAgent4",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 5,
+    "sender": "CareAgent3",
+    "receiver": "CareAgent4",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 5,
+    "sender": "CareAgent3",
+    "receiver": "CareAgent2",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 5,
+    "sender": "CareAgent5",
+    "receiver": "CareAgent1",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 5,
+    "sender": "CareAgent5",
+    "receiver": "CareAgent2",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent4 to CareAgent1 for 2.11 units at $28.77"
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent4 to CareAgent2 for 2.11 units at $28.77"
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent1 to CareAgent5 for 1.00 units at $30.00"
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent2 to CareAgent3 for 1.00 units at $30.49"
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent2 to CareAgent5 for 6.79 units at $30.12"
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: CareAgent1 sold 1.02 units to CareAgent3 at $28.77"
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: CareAgent2 sold 0.10 units to CareAgent3 at $28.77"
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: CareAgent2 sold 8.38 units to CareAgent5 at $28.77"
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: CareAgent4 sold 2.11 units to CareAgent5 at $28.77"
+  },
+  {
+    "round": 6,
+    "sender": "CareAgent3",
+    "receiver": "CareAgent1",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 6,
+    "sender": "CareAgent3",
+    "receiver": "CareAgent2",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 6,
+    "sender": "CareAgent5",
+    "receiver": "CareAgent1",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 6,
+    "sender": "CareAgent5",
+    "receiver": "CareAgent2",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 6,
+    "sender": "CareAgent1",
+    "receiver": "CareAgent3",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 4 units at $30.00 per unit"
+  },
+  {
+    "round": 6,
+    "sender": "CareAgent4",
+    "receiver": "CareAgent3",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 1 units at $30.00 per unit"
+  },
+  {
+    "round": 6,
+    "sender": "CareAgent1",
+    "receiver": "CareAgent3",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 6,
+    "sender": "CareAgent1",
+    "receiver": "CareAgent5",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 6,
+    "sender": "CareAgent2",
+    "receiver": "CareAgent3",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 6,
+    "sender": "CareAgent2",
+    "receiver": "CareAgent5",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 6,
+    "sender": "CareAgent3",
+    "receiver": "CareAgent1",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 6,
+    "sender": "CareAgent3",
+    "receiver": "CareAgent4",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 6,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent1 to CareAgent3 for 4.68 units at $28.91"
+  },
+  {
+    "round": 6,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent2 to CareAgent3 for 4.68 units at $28.91"
+  },
+  {
+    "round": 6,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent1 to CareAgent3 for 3.74 units at $30.00"
+  },
+  {
+    "round": 6,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent4 to CareAgent3 for 1.00 units at $30.00"
+  },
+  {
+    "round": 6,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: CareAgent1 sold 4.68 units to CareAgent3 at $28.91"
+  },
+  {
+    "round": 7,
+    "sender": "CareAgent3",
+    "receiver": "CareAgent1",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 7,
+    "sender": "CareAgent3",
+    "receiver": "CareAgent2",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 7,
+    "sender": "CareAgent5",
+    "receiver": "CareAgent1",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 7,
+    "sender": "CareAgent5",
+    "receiver": "CareAgent2",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 7,
+    "sender": "CareAgent4",
+    "receiver": "CareAgent3",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 1 units at $30.00 per unit"
+  },
+  {
+    "round": 7,
+    "sender": "CareAgent5",
+    "receiver": "CareAgent1",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 4 units at $30.00 per unit"
+  },
+  {
+    "round": 7,
+    "sender": "CareAgent1",
+    "receiver": "CareAgent3",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 7,
+    "sender": "CareAgent1",
+    "receiver": "CareAgent5",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 7,
+    "sender": "CareAgent1",
+    "receiver": "CareAgent5",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 7,
+    "sender": "CareAgent2",
+    "receiver": "CareAgent3",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 7,
+    "sender": "CareAgent2",
+    "receiver": "CareAgent5",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 7,
+    "sender": "CareAgent3",
+    "receiver": "CareAgent4",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 7,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent1 to CareAgent3 for 20.00 units at $28.99"
+  },
+  {
+    "round": 7,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent2 to CareAgent3 for 20.00 units at $28.99"
+  },
+  {
+    "round": 7,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent5 to CareAgent1 for 8.91 units at $28.99"
+  },
+  {
+    "round": 7,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent4 to CareAgent3 for 1.00 units at $30.00"
+  },
+  {
+    "round": 7,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent5 to CareAgent1 for 4.25 units at $30.00"
+  },
+  {
+    "round": 7,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: CareAgent2 sold 5.31 units to CareAgent1 at $28.99"
+  },
+  {
+    "round": 7,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: CareAgent2 sold 6.61 units to CareAgent3 at $28.99"
+  },
+  {
+    "round": 7,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: CareAgent5 sold 8.39 units to CareAgent3 at $28.99"
+  },
+  {
+    "round": 8,
+    "sender": "CareAgent1",
+    "receiver": "CareAgent5",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 8,
+    "sender": "CareAgent3",
+    "receiver": "CareAgent1",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 8,
+    "sender": "CareAgent3",
+    "receiver": "CareAgent2",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 8,
+    "sender": "CareAgent4",
+    "receiver": "CareAgent1",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 8,
+    "sender": "CareAgent4",
+    "receiver": "CareAgent2",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 8,
+    "sender": "CareAgent5",
+    "receiver": "CareAgent1",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 8,
+    "sender": "CareAgent5",
+    "receiver": "CareAgent2",
+    "message": "CONTRACT PROPOSAL: Default offer due to error"
+  },
+  {
+    "round": 8,
+    "sender": "CareAgent1",
+    "receiver": "CareAgent3",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 6 units at $30.00 per unit"
+  },
+  {
+    "round": 8,
+    "sender": "CareAgent1",
+    "receiver": "CareAgent3",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 8,
+    "sender": "CareAgent1",
+    "receiver": "CareAgent4",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 8,
+    "sender": "CareAgent1",
+    "receiver": "CareAgent5",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 8,
+    "sender": "CareAgent2",
+    "receiver": "CareAgent3",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 8,
+    "sender": "CareAgent2",
+    "receiver": "CareAgent4",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 8,
+    "sender": "CareAgent2",
+    "receiver": "CareAgent5",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 8,
+    "sender": "CareAgent3",
+    "receiver": "CareAgent1",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 8,
+    "sender": "CareAgent5",
+    "receiver": "CareAgent1",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 8,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent1 to CareAgent3 for 13.01 units at $29.04"
+  },
+  {
+    "round": 8,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent2 to CareAgent3 for 13.01 units at $29.04"
+  },
+  {
+    "round": 8,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent4 to CareAgent1 for 2.23 units at $29.04"
+  },
+  {
+    "round": 8,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent4 to CareAgent2 for 2.23 units at $29.04"
+  },
+  {
+    "round": 8,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent5 to CareAgent1 for 2.77 units at $29.04"
+  },
+  {
+    "round": 8,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: CareAgent5 to CareAgent2 for 2.77 units at $29.04"
+  },
+  {
+    "round": 8,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: CareAgent1 sold 7.09 units to CareAgent3 at $29.04"
+  },
+  {
+    "round": 8,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: CareAgent2 sold 5.91 units to CareAgent3 at $29.04"
+  }
+]

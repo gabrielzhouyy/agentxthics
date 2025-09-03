@@ -1,0 +1,2977 @@
+[
+  {
+    "round": 1,
+    "agent": "JusticeAgent1",
+    "type": "generation",
+    "decision": 85.64458959584861,
+    "explanation": "Generated 85.64 units with demand of 90.24 units"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent2",
+    "type": "generation",
+    "decision": 108.74668654188848,
+    "explanation": "Generated 108.75 units with demand of 81.97 units"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent3",
+    "type": "generation",
+    "decision": 81.08509655632157,
+    "explanation": "Generated 81.09 units with demand of 79.22 units"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent4",
+    "type": "generation",
+    "decision": 70.43342106153382,
+    "explanation": "Generated 70.43 units with demand of 63.27 units"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent5",
+    "type": "generation",
+    "decision": 95.21104823853457,
+    "explanation": "Generated 95.21 units with demand of 133.35 units"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent1",
+    "type": "contract_response",
+    "decision": "accept",
+    "explanation": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent1",
+    "type": "contract_response",
+    "decision": "accept",
+    "explanation": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent5",
+    "type": "contract_response",
+    "decision": "accept",
+    "explanation": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent5",
+    "type": "contract_response",
+    "decision": "reject",
+    "explanation": "No explanation provided"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 0.0, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent5",
+    "type": "contract_response",
+    "decision": "accept",
+    "explanation": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent1",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 4.60@$0.00, Offer: 0.00@$0.00"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent2",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 0.00@$0.00, Offer: 15.00@$0.00"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent3",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 0.00@$0.00, Offer: 1.87@$0.00"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent4",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 0.00@$0.00, Offer: 7.17@$0.00"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent5",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 15.00@$0.00, Offer: 0.00@$0.00"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent1",
+    "type": "profit",
+    "decision": 0,
+    "explanation": "Round profit: $0.00, Total profit: $0.00"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent1",
+    "type": "shortage",
+    "decision": 4.597294865534863,
+    "explanation": "Electricity shortage of 4.60 units"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent2",
+    "type": "profit",
+    "decision": 201.9079667443907,
+    "explanation": "Round profit: $201.91, Total profit: $201.91"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent3",
+    "type": "profit",
+    "decision": -22.411621358650276,
+    "explanation": "Round profit: $-22.41, Total profit: $-22.41"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent4",
+    "type": "profit",
+    "decision": 76.29674801726583,
+    "explanation": "Round profit: $76.30, Total profit: $76.30"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent5",
+    "type": "profit",
+    "decision": 0,
+    "explanation": "Round profit: $0.00, Total profit: $0.00"
+  },
+  {
+    "round": 1,
+    "agent": "JusticeAgent5",
+    "type": "shortage",
+    "decision": 38.1419381115611,
+    "explanation": "Electricity shortage of 38.14 units"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent1",
+    "type": "generation",
+    "decision": 90.83272331964407,
+    "explanation": "Generated 90.83 units with demand of 88.42 units"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent2",
+    "type": "generation",
+    "decision": 97.03025762032168,
+    "explanation": "Generated 97.03 units with demand of 50.30 units"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent3",
+    "type": "generation",
+    "decision": 73.88448355497498,
+    "explanation": "Generated 73.88 units with demand of 81.36 units"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent4",
+    "type": "generation",
+    "decision": 71.76258736145357,
+    "explanation": "Generated 71.76 units with demand of 62.77 units"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent5",
+    "type": "generation",
+    "decision": 53.94107651298021,
+    "explanation": "Generated 53.94 units with demand of 57.26 units"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 23.031758607022848, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 23.031758607022848, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 23.031758607022848, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 23.031758607022848, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 23.031758607022848, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 23.031758607022848, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent2",
+    "type": "contract_response",
+    "decision": "reject",
+    "explanation": "No explanation provided"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 23.031758607022848, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 23.031758607022848, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent2",
+    "type": "contract_response",
+    "decision": "reject",
+    "explanation": "No explanation provided"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 23.031758607022848, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 23.031758607022848, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent3",
+    "type": "contract_response",
+    "decision": "reject",
+    "explanation": "No explanation provided"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 23.031758607022848, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 23.031758607022848, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent5",
+    "type": "contract_response",
+    "decision": "accept",
+    "explanation": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 23.031758607022848, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 23.031758607022848, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent5",
+    "type": "contract_response",
+    "decision": "accept",
+    "explanation": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent1",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 0.00@$0.00, Offer: 2.42@$24.18"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent2",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 0.00@$0.00, Offer: 15.00@$24.18"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent3",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 7.48@$21.88, Offer: 0.00@$0.00"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent4",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 0.00@$0.00, Offer: 8.99@$24.18"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent5",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 3.32@$21.88, Offer: 0.00@$0.00"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent1",
+    "type": "profit",
+    "decision": 53.31397950595762,
+    "explanation": "Round profit: $53.31, Total profit: $53.31"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent2",
+    "type": "profit",
+    "decision": 563.9001032984036,
+    "explanation": "Round profit: $563.90, Total profit: $765.81"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent3",
+    "type": "profit",
+    "decision": 14.941080905766857,
+    "explanation": "Round profit: $14.94, Total profit: $-7.47"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent3",
+    "type": "shortage",
+    "decision": 7.478399363020031,
+    "explanation": "Electricity shortage of 7.48 units"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent4",
+    "type": "profit",
+    "decision": 190.7171379677062,
+    "explanation": "Round profit: $190.72, Total profit: $267.01"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent5",
+    "type": "profit",
+    "decision": 0,
+    "explanation": "Round profit: $0.00, Total profit: $0.00"
+  },
+  {
+    "round": 2,
+    "agent": "JusticeAgent5",
+    "type": "shortage",
+    "decision": 3.3167616609541923,
+    "explanation": "Electricity shortage of 3.32 units"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent1",
+    "type": "generation",
+    "decision": 90.14756685971166,
+    "explanation": "Generated 90.15 units with demand of 86.75 units"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent2",
+    "type": "generation",
+    "decision": 114.92081740439784,
+    "explanation": "Generated 114.92 units with demand of 85.79 units"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent3",
+    "type": "generation",
+    "decision": 70.1636563260825,
+    "explanation": "Generated 70.16 units with demand of 76.53 units"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent4",
+    "type": "generation",
+    "decision": 70.43927462247731,
+    "explanation": "Generated 70.44 units with demand of 77.29 units"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent5",
+    "type": "generation",
+    "decision": 102.09634856941797,
+    "explanation": "Generated 102.10 units with demand of 51.55 units"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 28.772199850310173, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 28.772199850310173, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 28.772199850310173, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 28.772199850310173, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 28.772199850310173, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 28.772199850310173, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 28.772199850310173, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 28.772199850310173, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent1",
+    "type": "contract_response",
+    "decision": "reject",
+    "explanation": "No explanation provided"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 28.772199850310173, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 28.772199850310173, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent2",
+    "type": "contract_response",
+    "decision": "reject",
+    "explanation": "No explanation provided"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 28.772199850310173, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 28.772199850310173, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent2",
+    "type": "contract_response",
+    "decision": "reject",
+    "explanation": "No explanation provided"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 28.772199850310173, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 28.772199850310173, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent3",
+    "type": "contract_response",
+    "decision": "accept",
+    "explanation": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 28.772199850310173, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 28.772199850310173, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent3",
+    "type": "contract_response",
+    "decision": "accept",
+    "explanation": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 28.772199850310173, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 28.772199850310173, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent4",
+    "type": "contract_response",
+    "decision": "accept",
+    "explanation": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent1",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 0.00@$0.00, Offer: 3.40@$30.21"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent2",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 0.00@$0.00, Offer: 15.00@$30.21"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent3",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 6.36@$27.33, Offer: 0.00@$0.00"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent4",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 6.85@$27.33, Offer: 0.00@$0.00"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent5",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 0.00@$0.00, Offer: 15.00@$30.21"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent1",
+    "type": "profit",
+    "decision": 159.94192292455978,
+    "explanation": "Round profit: $159.94, Total profit: $213.26"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent2",
+    "type": "profit",
+    "decision": 624.601162278861,
+    "explanation": "Round profit: $624.60, Total profit: $1390.41"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent3",
+    "type": "profit",
+    "decision": 14.941080905766857,
+    "explanation": "Round profit: $14.94, Total profit: $7.47"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent3",
+    "type": "shortage",
+    "decision": 6.363340541577557,
+    "explanation": "Electricity shortage of 6.36 units"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent4",
+    "type": "profit",
+    "decision": 190.7171379677062,
+    "explanation": "Round profit: $190.72, Total profit: $457.73"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent4",
+    "type": "shortage",
+    "decision": 6.84925906249552,
+    "explanation": "Electricity shortage of 6.85 units"
+  },
+  {
+    "round": 3,
+    "agent": "JusticeAgent5",
+    "type": "profit",
+    "decision": 456.58879084499165,
+    "explanation": "Round profit: $456.59, Total profit: $456.59"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent1",
+    "type": "generation",
+    "decision": 93.0886850872066,
+    "explanation": "Generated 93.09 units with demand of 88.91 units"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent2",
+    "type": "generation",
+    "decision": 101.30397688599834,
+    "explanation": "Generated 101.30 units with demand of 69.71 units"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent3",
+    "type": "generation",
+    "decision": 67.01119660496957,
+    "explanation": "Generated 67.01 units with demand of 69.86 units"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent4",
+    "type": "generation",
+    "decision": 70.45324146699696,
+    "explanation": "Generated 70.45 units with demand of 68.02 units"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent5",
+    "type": "generation",
+    "decision": 63.854581853976626,
+    "explanation": "Generated 63.85 units with demand of 53.45 units"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.29667031853043, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.29667031853043, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.29667031853043, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.29667031853043, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.29667031853043, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.29667031853043, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.29667031853043, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.29667031853043, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.29667031853043, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.29667031853043, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent1",
+    "type": "contract_response",
+    "decision": "accept",
+    "explanation": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.29667031853043, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.29667031853043, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent1",
+    "type": "contract_response",
+    "decision": "reject",
+    "explanation": "No explanation provided"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.29667031853043, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.29667031853043, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent2",
+    "type": "contract_response",
+    "decision": "accept",
+    "explanation": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.29667031853043, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.29667031853043, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent2",
+    "type": "contract_response",
+    "decision": "reject",
+    "explanation": "No explanation provided"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.29667031853043, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.29667031853043, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent3",
+    "type": "contract_response",
+    "decision": "accept",
+    "explanation": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.29667031853043, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.29667031853043, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent3",
+    "type": "contract_response",
+    "decision": "accept",
+    "explanation": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent1",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 0.00@$0.00, Offer: 4.18@$30.76"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent2",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 0.00@$0.00, Offer: 15.00@$30.76"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent3",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 2.85@$27.83, Offer: 0.00@$0.00"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent4",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 0.00@$0.00, Offer: 2.43@$30.76"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent5",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 0.00@$0.00, Offer: 10.40@$30.76"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent1",
+    "type": "profit",
+    "decision": 333.0252464084652,
+    "explanation": "Round profit: $333.03, Total profit: $546.28"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent2",
+    "type": "profit",
+    "decision": 584.152818677919,
+    "explanation": "Round profit: $584.15, Total profit: $1974.56"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent3",
+    "type": "profit",
+    "decision": 14.941080905766857,
+    "explanation": "Round profit: $14.94, Total profit: $22.41"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent3",
+    "type": "shortage",
+    "decision": 2.8534461208033406,
+    "explanation": "Electricity shortage of 2.85 units"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent4",
+    "type": "profit",
+    "decision": 190.7171379677062,
+    "explanation": "Round profit: $190.72, Total profit: $648.45"
+  },
+  {
+    "round": 4,
+    "agent": "JusticeAgent5",
+    "type": "profit",
+    "decision": 650.0499034988877,
+    "explanation": "Round profit: $650.05, Total profit: $1106.64"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent1",
+    "type": "generation",
+    "decision": 85.20087973650375,
+    "explanation": "Generated 85.20 units with demand of 83.05 units"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent2",
+    "type": "generation",
+    "decision": 106.82633989581122,
+    "explanation": "Generated 106.83 units with demand of 121.30 units"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent3",
+    "type": "generation",
+    "decision": 89.71847263570524,
+    "explanation": "Generated 89.72 units with demand of 95.81 units"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent4",
+    "type": "generation",
+    "decision": 75.19482033153284,
+    "explanation": "Generated 75.19 units with demand of 82.66 units"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent5",
+    "type": "generation",
+    "decision": 57.600886538455484,
+    "explanation": "Generated 57.60 units with demand of 18.87 units"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.36721553276972, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.36721553276972, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.36721553276972, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.36721553276972, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.36721553276972, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.36721553276972, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.36721553276972, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.36721553276972, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.36721553276972, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.36721553276972, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.36721553276972, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.36721553276972, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent1",
+    "type": "deception",
+    "decision": "contract_acceptance_without_capacity",
+    "explanation": "Accepted contract for 6.095059738116532 units but only has 2.153918356821947 available"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent1",
+    "type": "contract_response",
+    "decision": "accept",
+    "explanation": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.36721553276972, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.36721553276972, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent1",
+    "type": "contract_response",
+    "decision": "reject",
+    "explanation": "No explanation provided"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.36721553276972, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.36721553276972, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent2",
+    "type": "contract_response",
+    "decision": "accept",
+    "explanation": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.36721553276972, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.36721553276972, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent2",
+    "type": "contract_response",
+    "decision": "reject",
+    "explanation": "No explanation provided"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.36721553276972, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.36721553276972, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent2",
+    "type": "contract_response",
+    "decision": "accept",
+    "explanation": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent1",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 0.00@$0.00, Offer: 2.15@$30.84"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent2",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 14.47@$27.90, Offer: 0.00@$0.00"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent3",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 6.10@$27.90, Offer: 0.00@$0.00"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent4",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 7.46@$27.90, Offer: 0.00@$0.00"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent5",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 0.00@$0.00, Offer: 15.00@$30.84"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent1",
+    "type": "profit",
+    "decision": 403.9438717803923,
+    "explanation": "Round profit: $403.94, Total profit: $950.23"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent2",
+    "type": "profit",
+    "decision": 641.2465569299635,
+    "explanation": "Round profit: $641.25, Total profit: $2615.81"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent2",
+    "type": "shortage",
+    "decision": 14.47301733867512,
+    "explanation": "Electricity shortage of 14.47 units"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent3",
+    "type": "profit",
+    "decision": 14.941080905766857,
+    "explanation": "Round profit: $14.94, Total profit: $37.35"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent3",
+    "type": "shortage",
+    "decision": 6.095059738116532,
+    "explanation": "Electricity shortage of 6.10 units"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent4",
+    "type": "profit",
+    "decision": 190.7171379677062,
+    "explanation": "Round profit: $190.72, Total profit: $839.17"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent4",
+    "type": "shortage",
+    "decision": 7.461488068040296,
+    "explanation": "Electricity shortage of 7.46 units"
+  },
+  {
+    "round": 5,
+    "agent": "JusticeAgent5",
+    "type": "profit",
+    "decision": 1352.5910684566165,
+    "explanation": "Round profit: $1352.59, Total profit: $2459.23"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent1",
+    "type": "generation",
+    "decision": 94.20654805030561,
+    "explanation": "Generated 94.21 units with demand of 92.95 units"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent2",
+    "type": "generation",
+    "decision": 73.71481626190055,
+    "explanation": "Generated 73.71 units with demand of 93.06 units"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent3",
+    "type": "generation",
+    "decision": 90,
+    "explanation": "Generated 90.00 units with demand of 120.77 units"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent4",
+    "type": "generation",
+    "decision": 72.15556526020923,
+    "explanation": "Generated 72.16 units with demand of 72.50 units"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent5",
+    "type": "generation",
+    "decision": 81.14650308655737,
+    "explanation": "Generated 81.15 units with demand of 70.30 units"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.3679398583139, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.3679398583139, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.3679398583139, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.3679398583139, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.3679398583139, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.3679398583139, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.3679398583139, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.3679398583139, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.3679398583139, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.3679398583139, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent1",
+    "type": "deception",
+    "decision": "contract_acceptance_without_capacity",
+    "explanation": "Accepted contract for 20.0 units but only has 1.2533463990777989 available"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent1",
+    "type": "contract_response",
+    "decision": "accept",
+    "explanation": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.3679398583139, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.3679398583139, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent2",
+    "type": "contract_response",
+    "decision": "accept",
+    "explanation": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.3679398583139, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.3679398583139, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent2",
+    "type": "deception",
+    "decision": "contract_acceptance_without_capacity",
+    "explanation": "Accepted contract for 20.0 units but only has -19.34757245761358 available"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent2",
+    "type": "contract_response",
+    "decision": "accept",
+    "explanation": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.3679398583139, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.3679398583139, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent2",
+    "type": "contract_response",
+    "decision": "accept",
+    "explanation": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.3679398583139, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.3679398583139, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent2",
+    "type": "contract_response",
+    "decision": "accept",
+    "explanation": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.3679398583139, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.3679398583139, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent3",
+    "type": "contract_response",
+    "decision": "accept",
+    "explanation": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.3679398583139, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.3679398583139, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent4",
+    "type": "contract_response",
+    "decision": "reject",
+    "explanation": "No explanation provided"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent1",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 0.00@$0.00, Offer: 1.25@$30.84"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent2",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 15.00@$27.90, Offer: 0.00@$0.00"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent3",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 15.00@$27.90, Offer: 0.00@$0.00"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent5",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 0.00@$0.00, Offer: 10.84@$30.84"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent1",
+    "type": "profit",
+    "decision": 781.9677960009981,
+    "explanation": "Round profit: $781.97, Total profit: $1732.19"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent2",
+    "type": "profit",
+    "decision": 1015.9641512625195,
+    "explanation": "Round profit: $1015.96, Total profit: $3631.77"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent2",
+    "type": "shortage",
+    "decision": 19.34757245761358,
+    "explanation": "Electricity shortage of 19.35 units"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent3",
+    "type": "profit",
+    "decision": 14.941080905766857,
+    "explanation": "Round profit: $14.94, Total profit: $52.29"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent3",
+    "type": "shortage",
+    "decision": 30.769903027071848,
+    "explanation": "Electricity shortage of 30.77 units"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent4",
+    "type": "profit",
+    "decision": 190.7171379677062,
+    "explanation": "Round profit: $190.72, Total profit: $1029.88"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent4",
+    "type": "shortage",
+    "decision": 0.346739427847055,
+    "explanation": "Electricity shortage of 0.35 units"
+  },
+  {
+    "round": 6,
+    "agent": "JusticeAgent5",
+    "type": "profit",
+    "decision": 1685.5268561065368,
+    "explanation": "Round profit: $1685.53, Total profit: $4144.76"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent1",
+    "type": "generation",
+    "decision": 87.94059408546781,
+    "explanation": "Generated 87.94 units with demand of 82.52 units"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent2",
+    "type": "generation",
+    "decision": 120,
+    "explanation": "Generated 120.00 units with demand of 143.48 units"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent3",
+    "type": "generation",
+    "decision": 90,
+    "explanation": "Generated 90.00 units with demand of 109.12 units"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent4",
+    "type": "generation",
+    "decision": 64.49459221276629,
+    "explanation": "Generated 64.49 units with demand of 64.62 units"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent5",
+    "type": "generation",
+    "decision": 103.08101250562889,
+    "explanation": "Generated 103.08 units with demand of 151.46 units"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.411551544832037, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.411551544832037, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.411551544832037, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.411551544832037, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.411551544832037, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.411551544832037, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.411551544832037, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.411551544832037, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent1",
+    "type": "contract_response",
+    "decision": "reject",
+    "explanation": "No explanation provided"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.411551544832037, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.411551544832037, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent2",
+    "type": "contract_response",
+    "decision": "accept",
+    "explanation": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.411551544832037, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.411551544832037, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent2",
+    "type": "contract_response",
+    "decision": "reject",
+    "explanation": "No explanation provided"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.411551544832037, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.411551544832037, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent3",
+    "type": "contract_response",
+    "decision": "accept",
+    "explanation": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.411551544832037, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.411551544832037, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent4",
+    "type": "contract_response",
+    "decision": "reject",
+    "explanation": "No explanation provided"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent1",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 0.00@$0.00, Offer: 5.42@$30.88"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent2",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 15.00@$27.94, Offer: 0.00@$0.00"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent3",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 15.00@$27.94, Offer: 0.00@$0.00"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent5",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 15.00@$27.94, Offer: 0.00@$0.00"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent1",
+    "type": "profit",
+    "decision": 1028.0011558224123,
+    "explanation": "Round profit: $1028.00, Total profit: $2760.19"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent2",
+    "type": "profit",
+    "decision": 1195.891920274321,
+    "explanation": "Round profit: $1195.89, Total profit: $4827.66"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent2",
+    "type": "shortage",
+    "decision": 23.483332603247362,
+    "explanation": "Electricity shortage of 23.48 units"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent3",
+    "type": "profit",
+    "decision": 14.941080905766857,
+    "explanation": "Round profit: $14.94, Total profit: $67.23"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent3",
+    "type": "shortage",
+    "decision": 19.11775844341004,
+    "explanation": "Electricity shortage of 19.12 units"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent4",
+    "type": "profit",
+    "decision": 190.7171379677062,
+    "explanation": "Round profit: $190.72, Total profit: $1220.60"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent4",
+    "type": "shortage",
+    "decision": 0.1299544469468259,
+    "explanation": "Electricity shortage of 0.13 units"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent5",
+    "type": "profit",
+    "decision": 1583.9373780882515,
+    "explanation": "Round profit: $1583.94, Total profit: $5728.69"
+  },
+  {
+    "round": 7,
+    "agent": "JusticeAgent5",
+    "type": "shortage",
+    "decision": 48.38035104066894,
+    "explanation": "Electricity shortage of 48.38 units"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent1",
+    "type": "generation",
+    "decision": 89.5834223682374,
+    "explanation": "Generated 89.58 units with demand of 92.85 units"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent2",
+    "type": "generation",
+    "decision": 120,
+    "explanation": "Generated 120.00 units with demand of 71.21 units"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent3",
+    "type": "generation",
+    "decision": 90,
+    "explanation": "Generated 90.00 units with demand of 93.97 units"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent4",
+    "type": "generation",
+    "decision": 76.56125169289433,
+    "explanation": "Generated 76.56 units with demand of 78.03 units"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent5",
+    "type": "generation",
+    "decision": 68.37022906683224,
+    "explanation": "Generated 68.37 units with demand of 16.85 units"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent2",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.445179464913668, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.445179464913668, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.445179464913668, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"amount\": 20, \"price\": 29.445179464913668, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent5",
+    "type": "reasoning",
+    "decision": "contract_proposal",
+    "explanation": "{\"action\": \"conserve\", \"explanation\": \"Default action due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.445179464913668, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.445179464913668, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent1",
+    "type": "contract_response",
+    "decision": "reject",
+    "explanation": "No explanation provided"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.445179464913668, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.445179464913668, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent1",
+    "type": "contract_response",
+    "decision": "reject",
+    "explanation": "No explanation provided"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.445179464913668, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent1",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.445179464913668, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent1",
+    "type": "contract_response",
+    "decision": "accept",
+    "explanation": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.445179464913668, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent3",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.445179464913668, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent3",
+    "type": "contract_response",
+    "decision": "accept",
+    "explanation": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.445179464913668, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent4",
+    "type": "reasoning",
+    "decision": "contract_response",
+    "explanation": "{\"amount\": 20, \"price\": 29.445179464913668, \"message\": \"Default offer due to error\"}"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent4",
+    "type": "contract_response",
+    "decision": "accept",
+    "explanation": "Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent1",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 3.27@$27.97, Offer: 0.00@$0.00"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent2",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 0.00@$0.00, Offer: 15.00@$30.92"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent3",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 3.97@$27.97, Offer: 0.00@$0.00"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent4",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 1.47@$27.97, Offer: 0.00@$0.00"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent5",
+    "type": "auction_participation",
+    "decision": "bid_and_offer",
+    "explanation": "Bid: 0.00@$0.00, Offer: 15.00@$30.92"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent1",
+    "type": "profit",
+    "decision": 990.8925818975607,
+    "explanation": "Round profit: $990.89, Total profit: $3751.09"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent1",
+    "type": "shortage",
+    "decision": 3.2704705557424347,
+    "explanation": "Electricity shortage of 3.27 units"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent2",
+    "type": "profit",
+    "decision": 1332.324473876279,
+    "explanation": "Round profit: $1332.32, Total profit: $6159.99"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent3",
+    "type": "profit",
+    "decision": 14.941080905766857,
+    "explanation": "Round profit: $14.94, Total profit: $82.18"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent3",
+    "type": "shortage",
+    "decision": 3.9651450205719385,
+    "explanation": "Electricity shortage of 3.97 units"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent4",
+    "type": "profit",
+    "decision": 190.7171379677062,
+    "explanation": "Round profit: $190.72, Total profit: $1411.32"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent4",
+    "type": "shortage",
+    "decision": 1.4707736076783817,
+    "explanation": "Electricity shortage of 1.47 units"
+  },
+  {
+    "round": 8,
+    "agent": "JusticeAgent5",
+    "type": "profit",
+    "decision": 1675.2834836386537,
+    "explanation": "Round profit: $1675.28, Total profit: $7403.98"
+  }
+]

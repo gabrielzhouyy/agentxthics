@@ -1,0 +1,308 @@
+[
+  {
+    "round": 1,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent3",
+    "amount": 2.0532237776735545,
+    "price": 30.0,
+    "status": "accepted",
+    "message": "Strategic electricity contract during high demand period"
+  },
+  {
+    "round": 1,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent1",
+    "amount": 5.661482923789527,
+    "price": 30.0,
+    "status": "accepted",
+    "message": "Strategic electricity contract during high demand period"
+  },
+  {
+    "round": 1,
+    "seller": "JusticeAgent4",
+    "buyer": "JusticeAgent1",
+    "amount": 1.0,
+    "price": 30.0,
+    "status": "accepted",
+    "message": "Strategic electricity contract during high demand period"
+  },
+  {
+    "round": 1,
+    "seller": "JusticeAgent4",
+    "buyer": "JusticeAgent3",
+    "amount": 1.0,
+    "price": 30.0,
+    "status": "accepted",
+    "message": "Strategic electricity contract during high demand period"
+  },
+  {
+    "round": 2,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent1",
+    "amount": 1.810348230958357,
+    "price": 30.0,
+    "status": "proposed",
+    "message": "Strategic electricity contract at standard market rates"
+  },
+  {
+    "round": 2,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent3",
+    "amount": 1.9055847797669345,
+    "price": 30.0,
+    "status": "proposed",
+    "message": "Strategic electricity contract at standard market rates"
+  },
+  {
+    "round": 2,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent4",
+    "amount": 1.9234480257286692,
+    "price": 30.0,
+    "status": "accepted",
+    "message": "Strategic electricity contract at standard market rates"
+  },
+  {
+    "round": 3,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent4",
+    "amount": 1.0,
+    "price": 30.0,
+    "status": "accepted",
+    "message": "Strategic electricity contract at standard market rates"
+  },
+  {
+    "round": 3,
+    "seller": "JusticeAgent1",
+    "buyer": "JusticeAgent4",
+    "amount": 1.0,
+    "price": 30.0,
+    "status": "accepted",
+    "message": "Strategic electricity contract at standard market rates"
+  },
+  {
+    "round": 4,
+    "seller": "JusticeAgent4",
+    "buyer": "JusticeAgent1",
+    "amount": 8.042652492670513,
+    "price": 30.0,
+    "status": "proposed",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 4,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent1",
+    "amount": 5.1855554861643895,
+    "price": 30.0,
+    "status": "accepted",
+    "message": "Strategic electricity contract during surplus period"
+  },
+  {
+    "round": 4,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent1",
+    "amount": 5.1855554861643895,
+    "price": 30.0,
+    "status": "accepted",
+    "message": "Strategic electricity contract during surplus period"
+  },
+  {
+    "round": 5,
+    "seller": "JusticeAgent1",
+    "buyer": "JusticeAgent3",
+    "amount": 4.000067154548603,
+    "price": 29.999999999999996,
+    "status": "proposed",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 5,
+    "seller": "JusticeAgent1",
+    "buyer": "JusticeAgent4",
+    "amount": 1.9614215683651963,
+    "price": 29.999999999999996,
+    "status": "accepted",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 5,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent4",
+    "amount": 1.5691372546921571,
+    "price": 30.0,
+    "status": "accepted",
+    "message": "Strategic electricity contract during surplus period"
+  },
+  {
+    "round": 5,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent4",
+    "amount": 1.5691372546921571,
+    "price": 30.0,
+    "status": "proposed",
+    "message": "Strategic electricity contract during surplus period"
+  },
+  {
+    "round": 5,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent5",
+    "amount": 8.466188435287178,
+    "price": 30.0,
+    "status": "accepted",
+    "message": "Strategic electricity contract during surplus period"
+  },
+  {
+    "round": 5,
+    "seller": "JusticeAgent1",
+    "buyer": "JusticeAgent4",
+    "amount": 1.5691372546921571,
+    "price": 30.0,
+    "status": "proposed",
+    "message": "Strategic electricity contract during surplus period"
+  },
+  {
+    "round": 6,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent1",
+    "amount": 2.093305399808429,
+    "price": 29.999999999999986,
+    "status": "accepted",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 6,
+    "seller": "JusticeAgent1",
+    "buyer": "JusticeAgent4",
+    "amount": 1.027168284360016,
+    "price": 29.999999999999986,
+    "status": "proposed",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 6,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent4",
+    "amount": 1.027168284360016,
+    "price": 29.999999999999986,
+    "status": "proposed",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 6,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent2",
+    "amount": 5.341732435294176,
+    "price": 29.999999999999986,
+    "status": "accepted",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 6,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent1",
+    "amount": 1.6746443198467433,
+    "price": 30.063202662565974,
+    "status": "accepted",
+    "message": "Strategic electricity contract at standard market rates"
+  },
+  {
+    "round": 6,
+    "seller": "JusticeAgent5",
+    "buyer": "JusticeAgent4",
+    "amount": 1.0,
+    "price": 30.0,
+    "status": "accepted",
+    "message": "Strategic electricity contract at standard market rates"
+  },
+  {
+    "round": 7,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent1",
+    "amount": 5.411561988840759,
+    "price": 30.00103725410959,
+    "status": "proposed",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 7,
+    "seller": "JusticeAgent1",
+    "buyer": "JusticeAgent4",
+    "amount": 2.029420751369841,
+    "price": 30.00103725410959,
+    "status": "accepted",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 7,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent4",
+    "amount": 2.029420751369841,
+    "price": 30.00103725410959,
+    "status": "accepted",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 7,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent5",
+    "amount": 20.0,
+    "price": 30.00103725410959,
+    "status": "accepted",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 7,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent3",
+    "amount": 11.434698441305763,
+    "price": 31.403809215122944,
+    "status": "accepted",
+    "message": "Strategic electricity contract during high demand period"
+  },
+  {
+    "round": 7,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent4",
+    "amount": 1.623536601095873,
+    "price": 31.33320106796911,
+    "status": "proposed",
+    "message": "Strategic electricity contract during high demand period"
+  },
+  {
+    "round": 8,
+    "seller": "JusticeAgent3",
+    "buyer": "JusticeAgent1",
+    "amount": 3.5124552632056805,
+    "price": 30.189660195161547,
+    "status": "accepted",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 8,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent3",
+    "amount": 12.832358274488527,
+    "price": 30.189660195161547,
+    "status": "accepted",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 8,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent5",
+    "amount": 20.0,
+    "price": 30.189660195161547,
+    "status": "accepted",
+    "message": "Default offer due to error"
+  },
+  {
+    "round": 8,
+    "seller": "JusticeAgent2",
+    "buyer": "JusticeAgent3",
+    "amount": 5.920901299093941,
+    "price": 31.896390818988866,
+    "status": "accepted",
+    "message": "Strategic electricity contract during high demand period"
+  }
+]

@@ -1,0 +1,104 @@
+====================================================================
+                ELECTRICITY TRADING SIMULATION ANALYSIS              
+====================================================================
+
+Number of Agents: 5
+Number of Rounds: 8
+Total Trades: 1472.27 units
+Average Price: $25.15
+Total Shortages: 28
+Communication Count: 139
+Contract Count: 47
+Collaboration Count: 26
+Deception Count: 7
+
+====================================================================
+                         AGENT PERFORMANCE                          
+====================================================================
+
+Agent JusticeAgent2 (adaptive):
+  Profit: $4615.01
+  Generation Capacity: 120.00 units
+  Storage Capacity: 40.00 units
+
+Agent JusticeAgent1 (adaptive):
+  Profit: $3231.78
+  Generation Capacity: 100.00 units
+  Storage Capacity: 50.00 units
+
+Agent JusticeAgent5 (adaptive):
+  Profit: $1642.14
+  Generation Capacity: 110.00 units
+  Storage Capacity: 45.00 units
+
+Agent JusticeAgent4 (adaptive):
+  Profit: $729.38
+  Generation Capacity: 80.00 units
+  Storage Capacity: 70.00 units
+
+Agent JusticeAgent3 (adaptive):
+  Profit: $0.00
+  Generation Capacity: 90.00 units
+  Storage Capacity: 60.00 units
+
+====================================================================
+                        HYPOTHESIS TESTING                          
+====================================================================
+
+Communication Impact:
+  Conclusion: Communication appears to impact decision making
+  Decisions Following Messages: 114.6%
+
+Relationship Formation:
+  Conclusion: Agents form consistent trading relationships
+  Strong Relationships: 7
+  Agents with Preferences: 5
+
+Trust Collaboration:
+  Conclusion: Limited evidence of trust-based collaboration
+  High Trust Pairs: 7
+  Increasing Collaboration Trend: False
+
+Deception:
+  Conclusion: Evidence supports use of deception for profit
+  Total Deceptive Activities: 17
+  Contract Failures: 10
+  Message Inconsistencies: 0
+
+Profit Vs Stability:
+  Conclusion: Agents prioritize profit over market stability
+  Price Volatility: 0.089
+  Blackout Frequency: 3.11
+  Profit in Volatile Periods: $-30.44
+  Profit in Stable Periods: $296.30
+
+Emergent Behavior:
+  Conclusion: Evidence of emergent behavior detected
+  Consistent Trading Patterns: 8
+  Coordinated Messaging: 8
+  Agents in Emergent Behaviors: 5
+
+Decision Quality:
+  Conclusion: Agents consistently make logical decisions
+  Illogical Decisions: 0.0%
+
+Numerical Accuracy:
+  Conclusion: Agents handle numerical calculations accurately
+  Numerical Error Rate: 0.00%
+
+====================================================================
+                            SUMMARY                                 
+====================================================================
+
+This simulation tested various hypotheses about agent behavior in an
+electricity trading market. Key findings include:
+- Communication appears to impact decision making
+- Agents form consistent trading relationships
+- Limited evidence of trust-based collaboration
+- Evidence supports use of deception for profit
+- Agents prioritize profit over market stability
+- Evidence of emergent behavior detected
+- Agents consistently make logical decisions
+- Agents handle numerical calculations accurately
+
+End of Analysis Report
